@@ -1,6 +1,8 @@
 # Liste der Twitter Accounts der Deutschen Landkreise und Städte
 Work In Progress
 
+Hier ist der [aktuelle Stand](https://entorb.github.io/twitter-gov-accounts/index.html) zu finden
+
 Done
 * Ref Liste der Landkreise erstellen
 * Twitter Developer Account beantragen
