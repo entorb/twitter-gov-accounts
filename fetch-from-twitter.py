@@ -72,9 +72,9 @@ for s in l_columns_twitter:
         l_columns.append(s)
 
 
-with open('data/DE-Landkreise-out.csv', mode='w', encoding='utf-8', newline='\n') as fh:
+with open('data/DE-Landkreise-out.tsv', mode='w', encoding='utf-8', newline='\n') as fh:
     csvwriter = csv.DictWriter(
-        fh, delimiter=';', extrasaction='ignore', fieldnames=l_columns)
+        fh, delimiter='\t', extrasaction='ignore', fieldnames=l_columns)
     csvwriter.writeheader()
     for d in l_landkreise:
         if d['Twitter Account'] not in ("", "-"):
