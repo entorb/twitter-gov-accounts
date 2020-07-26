@@ -87,7 +87,7 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
     <title>Liste der Twitter Accounts der Deutschen Stadtkreise und Landkreise</title>
     <meta charset="utf-8">
     <meta name="author" content="Dr. Torben Menke">
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="https://entorb.net/style.css" />
 </head>
 
 <body>
