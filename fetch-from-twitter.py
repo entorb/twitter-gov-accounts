@@ -80,7 +80,7 @@ with open('data/DE-Landkreise-out.tsv', mode='w', encoding='utf-8', newline='\n'
         csvwriter.writerow(d)
 
 
-with open('data/DE-Landkreise-out.html', mode='w', encoding='utf-8', newline='\n') as fh:
+with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
     fh.write("""<!doctype html>
 <html lang="de">
 <head>
