@@ -1,13 +1,13 @@
-# twitter-gov-accounts
-Work In Progress: Liste der Twitter Accounts der Deutschen Landkreise und Städte
+# Liste der Twitter Accounts der Deutschen Landkreise und Städte
+Work In Progress
 
 Done
-* Twitter Api Dev Account beantragen
 * Ref Liste der Landkreise erstellen
+* Twitter Developer Account beantragen
 * Suche nach Accounts für Stadtkreise abgeschlossen
 
-IN_PROGRESS
-
 TODO
-* Script modifizieren, und API Call die folgenden Daten holen: Anzahl Tweets, Anzahl Follower
+* Script modifizieren um per API Call die folgenden Daten von Twitter zu holen: Anzahl Tweets, Anzahl Follower
 * Nach weiteren Twitter Accounts der Landkreise suchen
+* Ergebis auch als JSON exportieren
+* Periodisch ausführen (Wie ohne Twitter api_key hier zu hinterlegen?)
