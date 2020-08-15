@@ -14,12 +14,27 @@ function defineTable() {
             // not using the checkbox column, as clicking the checkbox is not the same as clicking the row
             // { formatter: "rowSelection", titleFormatter: "rowSelection", align: "center", headerSort: true },
             {
-                title: "Bundesland<br/>&nbsp;<br/>&nbsp;", field: "BL_Name", sorterParams: {
+                title: "Land", field: "BL_Code", sorterParams: {
                     alignEmptyValues: "bottom"
-                }, width: 150, headerFilter: true
+                }, width: 50, headerFilter: true
             },
-            { title: "Landkreis<br/>&nbsp;<br/>&nbsp;", field: "LK_Name", sorter: "string", headerFilter: true },
-            { title: "Landkreis<br/>&nbsp;<br/>&nbsp;", field: "LK_Type", sorter: "string", headerFilter: true },
+            { title: "Landkreis", field: "LK_Name", sorter: "string", headerFilter: true },
+            { title: "Art", field: "LK_Type", sorter: "string", headerFilter: true },
+            {
+                title: "Einwohner", field: "Population", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
+                    alignEmptyValues: "bottom"
+                }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
+            },
+            {
+                title: "Tweets;", field: "Twitter Tweets", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
+                    alignEmptyValues: "bottom"
+                }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
+            },
+            {
+                title: "Follower", field: "Twitter Follower", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
+                    alignEmptyValues: "bottom"
+                }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
+            },
 
         ],
         // rowClick: function (e, row) {
