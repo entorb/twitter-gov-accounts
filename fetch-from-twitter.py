@@ -68,7 +68,7 @@ def fetch_user_metadata(username: str) -> dict:
 #     return cont
 
 
-# def fetch_from_twitter(account: str, cachefilename: str, verbose=False) -> str:
+# def download_from_twitter(account: str, cachefilename: str, verbose=False) -> str:
 #     html = read_url_or_cachefile(url=f"https://twitter.com/{account}",
 #                                  cachefile=f"cache/{cachefilename}.html")
 #     return html
@@ -82,16 +82,12 @@ d_config['bearer-token'] = config.get('API', 'bearer-token')
 # read input data
 l_landkreise = []
 with open('data/DE-Landkreise-in.csv', mode='r', encoding='utf-8') as fh:
-    csv_reader = csv.DictReader(fh, dialect='excel', delimiter=";")
+    csv_reader = csv.DictReader(fh, dialect='excel', delimiter=",")
     for row in csv_reader:
         d = dict(row)
-        if d['Twitter Account'] not in ("", "-"):
-            d['Twitter URL'] = f"https://twitter.com/{d['Twitter Account']}"
-            # print(
-            #     f"{d['LK_Name']} ({d['LK_Type']})\t{d['Twitter Account']}")
         l_landkreise.append(d)
 
-        # fetch_from_twitter(
+        # download_from_twitter(
         #     account=d['Twitter Account'], cachefilename=f"{d['LK_ID']} {d['LK_Name']} ({d['LK_Type']})")
 
 # append twitter columns to columns of input file
@@ -122,11 +118,11 @@ for d in l_landkreise:
     if len(d_twitter_user_meta_data) > 0:
         d["Twitter ID"] = d_twitter_user_meta_data['id']
         d["Twitter Name"] = d_twitter_user_meta_data['name']
-        d["Twitter Description"] = d_twitter_user_meta_data['description']
+        d["Twitter Tweets"] = d_twitter_user_meta_data['statuses_count']
         d["Twitter Follower"] = d_twitter_user_meta_data['followers_count']
         d["Twitter Following"] = d_twitter_user_meta_data['friends_count']
-        d["Twitter Tweets"] = d_twitter_user_meta_data['statuses_count']
         d["Twitter Location"] = d_twitter_user_meta_data['location']
+        d["Twitter Description"] = d_twitter_user_meta_data['description']
         # if 'profile_location' in d_twitter_user_meta_data and d_twitter_user_meta_data['profile_location'] and 'full_name' in d_twitter_user_meta_data['profile_location']:
         #     d["Twitter Location"] = d_twitter_user_meta_data['profile_location']['full_name']
 
