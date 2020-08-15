@@ -126,8 +126,8 @@ for d in l_landkreise:
         # if 'profile_location' in d_twitter_user_meta_data and d_twitter_user_meta_data['profile_location'] and 'full_name' in d_twitter_user_meta_data['profile_location']:
         #     d["Twitter Location"] = d_twitter_user_meta_data['profile_location']['full_name']
 
-# Export as JSON
-with open('data/DE-Landkreise-out.json', mode='w', encoding='utf-8', newline='\n') as fh:
+# Export as JSON (in dir docs for tabulator JS table)
+with open('docs/DE-Landkreise-out.json', mode='w', encoding='utf-8', newline='\n') as fh:
     json.dump(l_landkreise, fh, ensure_ascii=False, sort_keys=True)
 
 # Export as CSV

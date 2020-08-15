@@ -114,7 +114,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 05966,Olpe,Kreis,134775,NW,Nordrhein-Westfalen,Kreis_Olpe
 05970,Siegen-Wittgenstein,Kreis,278210,NW,Nordrhein-Westfalen,Kreis_SiWi
 05974,Soest,Kreis,301902,NW,Nordrhein-Westfalen,KreisSoest
-05978,Unna,Kreis,394782,NW,Nordrhein-Westfalen,KreisUnna
+05978,Unna,Kreis,394782,NW,Nordrhein-Westfalen,-
 06411,Darmstadt,Kreisfreie Stadt,159207,HE,Hessen,Stadt_Darmstadt
 06412,Frankfurt am Main,Kreisfreie Stadt,753056,HE,Hessen,Stadt_FFM
 06413,Offenbach am Main,Kreisfreie Stadt,128744,HE,Hessen,Stadt_OF
@@ -159,7 +159,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 07235,Trier-Saarburg,Landkreis,148945,RP,Rheinland-Pfalz,?
 07311,Frankenthal (Pfalz),Kreisfreie Stadt,48561,RP,Rheinland-Pfalz,Stadt_FT
 07312,Kaiserslautern,Kreisfreie Stadt,99845,RP,Rheinland-Pfalz,StadtKL
-07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,Landau_Pfalz1
+07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,-
 07314,Ludwigshafen am Rhein,Kreisfreie Stadt,171061,RP,Rheinland-Pfalz,ludwigshafen_de
 07315,Mainz,Kreisfreie Stadt,217118,RP,Rheinland-Pfalz,stadtmainz
 07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,Neustadt_Wstr
@@ -305,7 +305,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 09679,Würzburg,Landkreis,161834,BY,Bayern,?
 09761,Augsburg,Kreisfreie Stadt,295135,BY,Bayern,stadtaugsburg
 09762,Kaufbeuren,Kreisfreie Stadt,43893,BY,Bayern,-
-09763,Kempten (Allgäu),Kreisfreie Stadt,68907,BY,Bayern,Kempten2
+09763,Kempten (Allgäu),Kreisfreie Stadt,68907,BY,Bayern,-
 09764,Memmingen,Kreisfreie Stadt,43837,BY,Bayern,StadtMM
 09771,Aichach-Friedberg,Landkreis,133596,BY,Bayern,?
 09772,Augsburg,Landkreis,251534,BY,Bayern,?

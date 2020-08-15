@@ -1,15 +1,10 @@
-// ASync JQuery fetching
-function fetch_table_data() {
-    table.setData("https://entorb.net/COVID-19-coronavirus/data/de-districts/de-districts-results-V2.json", {}, "get")
-}
-
 function defineTable() {
     var table = new Tabulator("#table-de-districts", {
         height: 600, // set height of table to enable virtual DOM
         layout: "fitColumns", //fit columns to width of table (optional)
         // autoColumns: true, // very nice!!!
         tooltipsHeader: true,
-        selectable: true,
+        selectable: false,
         columns: [ //Define Table Columns
             // not using the checkbox column, as clicking the checkbox is not the same as clicking the row
             // { formatter: "rowSelection", titleFormatter: "rowSelection", align: "center", headerSort: true },
