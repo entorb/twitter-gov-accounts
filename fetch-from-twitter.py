@@ -131,9 +131,9 @@ with open('data/DE-Landkreise-out.json', mode='w', encoding='utf-8', newline='\n
     json.dump(l_landkreise, fh, ensure_ascii=False, sort_keys=True)
 
 # Export as CSV
-with open('data/DE-Landkreise-out.tsv', mode='w', encoding='utf-8', newline='\n') as fh:
+with open('data/DE-Landkreise-out.csv', mode='w', encoding='utf-8', newline='\n') as fh:
     csvwriter = csv.DictWriter(
-        fh, delimiter='\t', extrasaction='ignore', fieldnames=l_columns)
+        fh, delimiter=',', extrasaction='ignore', fieldnames=l_columns)
     csvwriter.writeheader()
     for d in l_landkreise:
         csvwriter.writerow(d)
