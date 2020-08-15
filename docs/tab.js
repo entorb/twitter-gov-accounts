@@ -37,24 +37,13 @@ function defineTable() {
             },
 
         ],
-        // rowClick: function (e, row) {
-        //     var rowData = row.getData();
-        //     // console.log(row._row);
-        //     // console.log(rowData);
-
-        //     var clickedCode = rowData["LK_ID"];
-        //     var clickedDistrict = rowData["Landkreis"];
-        //     if (row._row.modules.select.selected == true) {
-        //         addRegion(clickedCode);
-        //         alert(clickedDistrict + " zur Auswahl hinzugefügt")
-        //     } else {
-        //         removeRegion(clickedCode);
-        //         alert(clickedDistrict + " von Auswahl entfernt")
-        //     }
-
-        //     // var selectedRows = table.getSelectedRows();
-        //     // console.log(selectedRows);
-        // },
+        rowClick: function (e, row) {
+            var rowData = row.getData();
+            if ('Twitter URL' in rowData === true) {
+                var activityUrl = rowData["Twitter URL"];
+                window.open(activityUrl);
+            }
+        },
     });
 
     table.setSort([
