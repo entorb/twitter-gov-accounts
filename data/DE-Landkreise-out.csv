@@ -16,7 +16,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 01062,Stormarn,Kreis,243196,SH,Schleswig-Holstein,Kreis_Stormarn,https://twitter.com/Kreis_Stormarn,Kreis Stormarn,Hier twittert das Redaktionsteam der Kreisverwaltung Stormarn und versorgt Sie mit aktuellen Meldungen des Kreises.,225,12,253,Bad Oldesloe,1239806655862378496
 02000,Hamburg,Kreisfreie Stadt,1841179,HH,Hamburg,hamburg_de,https://twitter.com/hamburg_de,hamburg.de,"Das offizielle Stadtportal. Hier twittern Jule, Franzi, Johanna und Thilo. 
 Impressum: https://t.co/gDLfB7SyMf 
-Foto: https://t.co/UC81UwQGV6",238743,278,12753,Hamburg,11013962
+Foto: https://t.co/UC81UwQGV6",238740,278,12753,Hamburg,11013962
 03101,Braunschweig,Kreisfreie Stadt,248292,NI,Niedersachsen,Stadt_BS,https://twitter.com/Stadt_BS,Stadt Braunschweig,Hier twittert die Stadt Braunschweig. Störungshotlines: 💡: 0800 51 837 6324. 🚦⚡️💧: 0531 383-2444. 📞Bürgertelefon: 115.,4927,62,2287,"Braunschweig, Deutschland",828601709475852288
 03102,Salzgitter,Kreisfreie Stadt,104948,NI,Niedersachsen,stadtsalzgitter,https://twitter.com/stadtsalzgitter,Stadt Salzgitter,Hier twittert die Stadt Salzgitter über aktuelle Ereignisse. Aktuell haben wir ein Bürgertelefon für Sie geschaltet ☎️05341/839-5000.,1295,45,1942,Salzgitter,2457928795
 03103,Wolfsburg,Kreisfreie Stadt,124151,NI,Niedersachsen,Stadt_Wolfsburg,https://twitter.com/Stadt_Wolfsburg,Stadt.Wolfsburg,"Offizielle Twitter-Seite der Stadt Wolfsburg mit aktuellen Meldungen, Hinweisen, Tipps aus dem Wolfsburger Rathaus.   Impressum/Kontakt: http://t.co/pBxR81zAOI",3694,141,6642,Wolfsburg,1396559460
@@ -27,7 +27,7 @@ Foto: https://t.co/UC81UwQGV6",238743,278,12753,Hamburg,11013962
 03157,Peine,Landkreis,133965,NI,Niedersachsen,?,,,,,,,,
 03158,Wolfenbüttel,Landkreis,119960,NI,Niedersachsen,?,,,,,,,,
 03159,Göttingen,Landkreis,328074,NI,Niedersachsen,-,,,,,,,,
-03241,Region Hannover,Landkreis,1157624,NI,Niedersachsen,regionhannover_,https://twitter.com/regionhannover_,Region Hannover,"21 Städte und Gemeinden unter einem Dach; 1,2 Mio. Einwohner; mitten in Europa. Impressum: https://t.co/YLXfd08vVe",11663,379,7924,Hannover,169050559
+03241,Region Hannover,Landkreis,1157624,NI,Niedersachsen,regionhannover_,https://twitter.com/regionhannover_,Region Hannover,"21 Städte und Gemeinden unter einem Dach; 1,2 Mio. Einwohner; mitten in Europa. Impressum: https://t.co/YLXfd08vVe",11664,379,7924,Hannover,169050559
 03251,Diepholz,Landkreis,216886,NI,Niedersachsen,?,,,,,,,,
 03252,Hameln-Pyrmont,Landkreis,148559,NI,Niedersachsen,?,,,,,,,,
 03254,Hildesheim,Landkreis,276594,NI,Niedersachsen,-,,,,,,,,
@@ -36,9 +36,9 @@ Foto: https://t.co/UC81UwQGV6",238743,278,12753,Hamburg,11013962
 03257,Schaumburg,Landkreis,157781,NI,Niedersachsen,?,,,,,,,,
 03351,Celle,Landkreis,178936,NI,Niedersachsen,-,,,,,,,,
 03352,Cuxhaven,Landkreis,198213,NI,Niedersachsen,?,,,,,,,,
-03353,Harburg,Landkreis,252776,NI,Niedersachsen,LKreis_Harburg,https://twitter.com/LKreis_Harburg,Landkreis Harburg,"Herzlich willkommen auf der offiziellen Twitterpräsenz des Landkreises Harburg. Fotos: Copyright Landkreis, Fotograf Header: Martin Kunze.",2232,313,3930,Winsen(Luhe),291684839
+03353,Harburg,Landkreis,252776,NI,Niedersachsen,LKreis_Harburg,https://twitter.com/LKreis_Harburg,Landkreis Harburg,"Herzlich willkommen auf der offiziellen Twitterpräsenz des Landkreises Harburg. Fotos: Copyright Landkreis, Fotograf Header: Martin Kunze.",2231,313,3930,Winsen(Luhe),291684839
 03354,Lüchow-Dannenberg,Landkreis,48424,NI,Niedersachsen,?,,,,,,,,
-03355,Lüneburg,Landkreis,183372,NI,Niedersachsen,lk_lueneburg,https://twitter.com/lk_lueneburg,Landkreis Lüneburg,Nachrichten aus der Region von der Pressestelle. Impressum: https://t.co/TcXFGquoUk Datenschutz: https://t.co/S7t3iB3IG8,3566,80,6495,"Lüneburg, Germany",8539882
+03355,Lüneburg,Landkreis,183372,NI,Niedersachsen,lk_lueneburg,https://twitter.com/lk_lueneburg,Landkreis Lüneburg,Nachrichten aus der Region von der Pressestelle. Impressum: https://t.co/TcXFGquoUk Datenschutz: https://t.co/S7t3iB3IG8,3565,80,6495,"Lüneburg, Germany",8539882
 03356,Osterholz,Landkreis,113517,NI,Niedersachsen,?,,,,,,,,
 03357,Rotenburg (Wümme),Landkreis,163455,NI,Niedersachsen,?,,,,,,,,
 03358,Heidekreis,Landkreis,139755,NI,Niedersachsen,?,,,,,,,,
@@ -63,10 +63,10 @@ Foto: https://t.co/UC81UwQGV6",238743,278,12753,Hamburg,11013962
 03460,Vechta,Landkreis,141598,NI,Niedersachsen,?,,,,,,,,
 03461,Wesermarsch,Landkreis,88624,NI,Niedersachsen,?,,,,,,,,
 03462,Wittmund,Landkreis,56882,NI,Niedersachsen,?,,,,,,,,
-04011,Bremen,Kreisfreie Stadt,569352,HB,Bremen,bremen_de,https://twitter.com/bremen_de,Stadt Bremen,"Immer auf dem Laufenden - mit Meldungen, Veranstaltungen, Tipps und Veröffentlichungen der Freien Hansestadt Bremen.",50861,441,8901,Bremen,23926662
+04011,Bremen,Kreisfreie Stadt,569352,HB,Bremen,bremen_de,https://twitter.com/bremen_de,Stadt Bremen,"Immer auf dem Laufenden - mit Meldungen, Veranstaltungen, Tipps und Veröffentlichungen der Freien Hansestadt Bremen.",50862,441,8901,Bremen,23926662
 04012,Bremerhaven,Kreisfreie Stadt,113634,HB,Bremen,bremerhaven_de,https://twitter.com/bremerhaven_de,Stadt Bremerhaven,"Offizieller Twitter-Dienst Stadtverwaltung Bremerhaven - es schreiben: F. Schildt, A. Müdeking https://t.co/x8nUDtzKMC https://t.co/krnArqT35d",2588,137,2413,Bremerhaven,335167862
-05111,Düsseldorf,Kreisfreie Stadt,619294,NW,Nordrhein-Westfalen,Duesseldorf,https://twitter.com/Duesseldorf,Stadt Düsseldorf,Offizieller Twitter Account der Landeshauptstadt Düsseldorf. https://t.co/Hj3Od8n0Rg,62830,223,11601,Düsseldorf / Germany,117684042
-05112,Duisburg,Kreisfreie Stadt,498590,NW,Nordrhein-Westfalen,duisburg_de,https://twitter.com/duisburg_de,Stadt Duisburg,Dies ist der offizielle Twitterkanal der Stadt Duisburg. Impressum: https://t.co/u39uOQnZwO,12805,803,7949,Duisburg,38818464
+05111,Düsseldorf,Kreisfreie Stadt,619294,NW,Nordrhein-Westfalen,Duesseldorf,https://twitter.com/Duesseldorf,Stadt Düsseldorf,Offizieller Twitter Account der Landeshauptstadt Düsseldorf. https://t.co/Hj3Od8n0Rg,62831,223,11601,Düsseldorf / Germany,117684042
+05112,Duisburg,Kreisfreie Stadt,498590,NW,Nordrhein-Westfalen,duisburg_de,https://twitter.com/duisburg_de,Stadt Duisburg,Dies ist der offizielle Twitterkanal der Stadt Duisburg. Impressum: https://t.co/u39uOQnZwO,12806,803,7949,Duisburg,38818464
 05113,Essen,Kreisfreie Stadt,583109,NW,Nordrhein-Westfalen,Essen_Ruhr,https://twitter.com/Essen_Ruhr,Stadt Essen,"Offizieller Account. Es twittern Elisabeth (^e), Daniel (^d), Remo (^r) & Sophia (^s) vom Presseamt. Impressum: https://t.co/VR7UDxTKzg",14405,450,16339,Essen,413192825
 05114,Krefeld,Kreisfreie Stadt,227020,NW,Nordrhein-Westfalen,KrefeldStadt,https://twitter.com/KrefeldStadt,Stadt Krefeld,"Krefeld - Stadt wie Samt und Seide
 
@@ -90,7 +90,7 @@ https://t.co/YrIf6Z0UBa",2306,19,3789,"Neuss, Deutschland",108539095
 05170,Wesel,Kreis,459809,NW,Nordrhein-Westfalen,kreiswesel,https://twitter.com/kreiswesel,Kreis Wesel,"Die Pressestelle des Kreises Wesel betreut diese Seite.
 Reeser Landstraße 31 / 46483 Wesel / Tel.: (02 81) 2070",728,83,924,"Wesel, Nordrhein-Westfalen",214035448
 05314,Bonn,Kreisfreie Stadt,327258,NW,Nordrhein-Westfalen,bonn_de,https://twitter.com/bonn_de,Stadt Bonn,,199,0,0,,87286300
-05315,Köln,Kreisfreie Stadt,1085664,NW,Nordrhein-Westfalen,Kloen,https://twitter.com/Kloen,Keven loen,,1,0,0,,1581560010
+05315,Köln,Kreisfreie Stadt,1085664,NW,Nordrhein-Westfalen,Koeln,https://twitter.com/Koeln,Stadt Köln,Offizieller Account der Stadt Köln. Hier twittern wir Neuigkeiten aus der Stadtverwaltung. Impressum: https://t.co/Uld2VAPfYO,28184,443,8419,"Köln, Deutschland",1171286929
 05316,Leverkusen,Kreisfreie Stadt,163838,NW,Nordrhein-Westfalen,leverkusen_de,https://twitter.com/leverkusen_de,Stadt Leverkusen,,0,11,0,,366012581
 05334,Städteregion Aachen,Kreis,555465,NW,Nordrhein-Westfalen,staedteregio_ac,https://twitter.com/staedteregio_ac,StädteRegion Aachen,"Wohnen und Leben in der #Euregio Maas-Rhein. Aktiv kommunizieren, sich vernetzen, kreative Ideen entwickeln, lebendig sein, sich unterstützen.",98,70,44,Städteregion Aachen,1226559106196082690
 05358,Düren,Kreis,263722,NW,Nordrhein-Westfalen,kreisdueren,https://twitter.com/kreisdueren,KREIS DÜREN,Dies ist der offizielle Nachrichtenkanal des Kreises Düren. Für Dialog und Service nutzen wir https://t.co/msbUOAYxtB. Impressum: https://t.co/sQpsDSxzpd,1829,184,15541,Düren,2230437297
@@ -106,15 +106,15 @@ Jennifer.Gruenter@kreis-heinsberg.de
 05378,Rheinisch-Bergischer Kreis,Kreis,283455,NW,Nordrhein-Westfalen,-,,,,,,,,
 05382,Rhein-Sieg-Kreis,Kreis,599780,NW,Nordrhein-Westfalen,RheinSiegKreis,https://twitter.com/RheinSiegKreis,Rhein-Sieg-Kreis,,1737,1,5282,Siegburg,229447270
 05512,Bottrop,Kreisfreie Stadt,117383,NW,Nordrhein-Westfalen,bottrop,https://twitter.com/bottrop,Pressestelle Bottrop,Der offizielle Twitter-Account der Stadt Bottrop (Impressum: https://t.co/ZOYKjkD8y5),1303,120,4155,"Bottrop, Germany",156926286
-05513,Gelsenkirchen,Kreisfreie Stadt,260654,NW,Nordrhein-Westfalen,_Gelsenkirchen_,https://twitter.com/_Gelsenkirchen_,Stadt Gelsenkirchen,Der offizielle Twitter-Account der Stadt Gelsenkirchen (Impressum: https://t.co/jtHjRt9Cfj),4380,168,4767,Gelsenkirchen,227650754
+05513,Gelsenkirchen,Kreisfreie Stadt,260654,NW,Nordrhein-Westfalen,_Gelsenkirchen_,https://twitter.com/_Gelsenkirchen_,Stadt Gelsenkirchen,Der offizielle Twitter-Account der Stadt Gelsenkirchen (Impressum: https://t.co/jtHjRt9Cfj),4379,168,4767,Gelsenkirchen,227650754
 05515,Münster,Kreisfreie Stadt,314319,NW,Nordrhein-Westfalen,MS_Stadt,https://twitter.com/MS_Stadt,Münster,Dieser Account befindet sich zur Zeit noch im Aufbau.,84,8,0,Münster,486575613
 05554,Borken,Kreis,370676,NW,Nordrhein-Westfalen,akutkreisborken,https://twitter.com/akutkreisborken,Kreis Borken,"Informationen zu akuten Krisen, Notfällen und Gefährdungslagen",1369,39,520,Westmünsterland - Kreis Borken,1207692835
 05558,Coesfeld,Kreis,219929,NW,Nordrhein-Westfalen,KreisCoesfeld,https://twitter.com/KreisCoesfeld,Kreis Coesfeld,Meldungen der Kreisverwaltung Coesfeld - Nordrhein-Westfalen (NRW) - Deutschland,585,4,1692,"Coesfeld, Nordrhein-Westfalen",833632598710697984
 05562,Recklinghausen,Kreis,615261,NW,Nordrhein-Westfalen,StadtRE,https://twitter.com/StadtRE,Stadt Recklinghausen,Offizieller Account der Stadt Recklinghausen. Hier twittert das Team der Pressestelle über Wissenswertes aus dem Stadtgebiet. #MeinRE,490,82,500,"Recklinghausen, NRW",1214182485325574145
-05566,Steinfurt,Kreis,447614,NW,Nordrhein-Westfalen,Kreis_Steinfurt,https://twitter.com/Kreis_Steinfurt,Kreis Steinfurt,"Informationen zu akuten Krisen, Notfällen und Gefährdungslagen",1836,98,2750,,224644072
+05566,Steinfurt,Kreis,447614,NW,Nordrhein-Westfalen,Kreis_Steinfurt,https://twitter.com/Kreis_Steinfurt,Kreis Steinfurt,"Informationen zu akuten Krisen, Notfällen und Gefährdungslagen",1835,98,2750,,224644072
 05570,Warendorf,Kreis,277783,NW,Nordrhein-Westfalen,Kreis_Warendorf,https://twitter.com/Kreis_Warendorf,kreiswarendorf,Willkommen auf dem offiziellen Twitter-Account des Kreises Warendorf. Weitere Infos finden Sie auch unter: https://t.co/bMUprND3Uu,237,18,89,,1234800832878665728
 05711,Bielefeld,Kreisfreie Stadt,333786,NW,Nordrhein-Westfalen,stadtbielefeld,https://twitter.com/stadtbielefeld,Stadt Bielefeld,"Aktuelles aus Bielefeld vom Twitter-Team des Presseamtes
-Impressum:https://t.co/Iu8MfjZpzL",7432,95,925,Bielefeld,75987732
+Impressum:https://t.co/Iu8MfjZpzL",7431,95,925,Bielefeld,75987732
 05754,Gütersloh,Kreis,364083,NW,Nordrhein-Westfalen,KreisGuetersloh,https://twitter.com/KreisGuetersloh,Kreis Gütersloh,,991,40,1078,Kreis Gütersloh,1001363615147061249
 05758,Herford,Kreis,250783,NW,Nordrhein-Westfalen,-,,,,,,,,
 05762,Höxter,Kreis,140667,NW,Nordrhein-Westfalen,Kreis_Hoexter,https://twitter.com/Kreis_Hoexter,Kreis Höxter,Willkommen auf der offiziellen Twitter-Seite der Kreisverwaltung Höxter!,326,56,108,"Höxter, Deutschland",897413573592403968
@@ -126,7 +126,7 @@ Servicezeiten: https://t.co/U1lFpVBzlx
 Datenschutz: https://t.co/24fqPQzr2Z",1721,163,2676,"Paderborn, Nordrhein-Westfalen",878182953356066817
 05911,Bochum,Kreisfreie Stadt,364628,NW,Nordrhein-Westfalen,bochum_de,https://twitter.com/bochum_de,Stadt Bochum,Herzlich willkommen auf der offiziellen Twitter-Seite der Stadt Bochum. Wir sind Mo–Fr von 8 bis 18 Uhr für euch da. Impressum: https://t.co/mGQo4G4DOK,10789,190,5648,Bochum / Deutschland,2187883166
 05913,Dortmund,Kreisfreie Stadt,587010,NW,Nordrhein-Westfalen,stadtdortmund,https://twitter.com/stadtdortmund,Stadt Dortmund,"Hier twittert das Social-Media-Team der Dortmund-Agentur.
-Impressum, Hinweise zum Datenschutz & unsere Netiquette ➡ https://t.co/4HOYiF6IU2",93957,939,28350,Dortmund,28532955
+Impressum, Hinweise zum Datenschutz & unsere Netiquette ➡ https://t.co/4HOYiF6IU2",93958,939,28350,Dortmund,28532955
 05914,Hagen,Kreisfreie Stadt,188814,NW,Nordrhein-Westfalen,Hagen_Westfalen,https://twitter.com/Hagen_Westfalen,Stadt Hagen,"Willkommen auf der offiziellen Twitter-Seite der Stadt Hagen in Westfalen!
 
 Mehr Infos auf:
@@ -138,13 +138,13 @@ https://t.co/s07Gvg7Hc6",3066,83,6151,Hagen,145595056
 05954,Ennepe-Ruhr-Kreis,Kreis,324296,NW,Nordrhein-Westfalen,-,,,,,,,,
 05958,Hochsauerlandkreis,Kreis,260475,NW,Nordrhein-Westfalen,-,,,,,,,,
 05962,Märkischer Kreis,Kreis,412120,NW,Nordrhein-Westfalen,-,,,,,,,,
-05966,Olpe,Kreis,134775,NW,Nordrhein-Westfalen,Kreis_Olpe,https://twitter.com/Kreis_Olpe,Kreis Olpe,Hier twittert die Kreisverwaltung Olpe. Impressum: https://t.co/E3z0Y7j2gh,52,2,0,Germany,1095676414697893889
+05966,Olpe,Kreis,134775,NW,Nordrhein-Westfalen,Kreis_Olpe,https://twitter.com/Kreis_Olpe,Kreis Olpe,Hier twittert die Kreisverwaltung Olpe. Impressum: https://t.co/E3z0Y7j2gh,52,2,0,Deutschland,1095676414697893889
 05970,Siegen-Wittgenstein,Kreis,278210,NW,Nordrhein-Westfalen,Kreis_SiWi,https://twitter.com/Kreis_SiWi,Siegen-Wittgenstein,Impressum:  https://t.co/3SQdr9jHkf,279,3,44,,3402446913
 05974,Soest,Kreis,301902,NW,Nordrhein-Westfalen,KreisSoest,https://twitter.com/KreisSoest,Kreis Soest,"Hier twittert der Kreis Soest, vertreten durch die Pressestelle.  Impressum: https://t.co/6w4JuPtpT1 Datenschutz: https://t.co/Rhs5Tdgwp9",2236,304,10603,Soest,272031261
-05978,Unna,Kreis,394782,NW,Nordrhein-Westfalen,KreisUnna,https://twitter.com/KreisUnna,Unnaer Guide,"Stadtführer Unna & Stadtführungen @KreisUnna, Cityguide, Unna Reiseführer, Ausflugsziele Kreisstadt #Unna. Öffnungszeiten, Adressen, Telefonnummern und Fotos.",2161,784,43422,NRW- Kreisstadt Unna,50091164
-06411,Darmstadt,Kreisfreie Stadt,159207,HE,Hessen,Stadt_Darmstadt,https://twitter.com/Stadt_Darmstadt,Stadt Darmstadt,Das ist der offizielle Twitter-Account der Wissenschaftsstadt Darmstadt.,6040,321,4261,Wissenschaftsstadt Darmstadt,255461952
+05978,Unna,Kreis,394782,NW,Nordrhein-Westfalen,-,,,,,,,,
+06411,Darmstadt,Kreisfreie Stadt,159207,HE,Hessen,Stadt_Darmstadt,https://twitter.com/Stadt_Darmstadt,Stadt Darmstadt,Das ist der offizielle Twitter-Account der Wissenschaftsstadt Darmstadt.,6041,321,4261,Wissenschaftsstadt Darmstadt,255461952
 06412,Frankfurt am Main,Kreisfreie Stadt,753056,HE,Hessen,Stadt_FFM,https://twitter.com/Stadt_FFM,Frankfurt am Main,Hier schreiben Moritz Bäuml (*mb) und Jan Hassenpflug (*jh) aus dem Hauptamt & Stadtmarketing der Stadt Frankfurt/M. Impressum: https://t.co/hUWlf5ycNc,209446,999,20194,"Frankfurt am Main, Germany",50254771
-06413,Offenbach am Main,Kreisfreie Stadt,128744,HE,Hessen,Stadt_OF,https://twitter.com/Stadt_OF,Stadt Offenbach,"Offizieller Twitter-Kanal der Stadt Offenbach am Main, Impressum: https://t.co/N6mexmcHjR",2019,161,2345,"Offenbach am Main, Deutschland",4868735543
+06413,Offenbach am Main,Kreisfreie Stadt,128744,HE,Hessen,Stadt_OF,https://twitter.com/Stadt_OF,Stadt Offenbach,"Offizieller Twitter-Kanal der Stadt Offenbach am Main, Impressum: https://t.co/N6mexmcHjR",2020,161,2345,"Offenbach am Main, Deutschland",4868735543
 06414,Wiesbaden,Kreisfreie Stadt,278342,HE,Hessen,Stadt_Wiesbaden,https://twitter.com/Stadt_Wiesbaden,Stadt Wiesbaden,"Hier twittert das Pressereferat der Landeshauptstadt. ➡️PiWi: https://t.co/DDr0pEWXrK ➡️FB: https://t.co/N7jzDn6oqA
 ➡️Datenschutz: https://t.co/MtLqOJoSam",7589,131,7307,Wiesbaden / Deutschland,88045348
 06431,Bergstraße,Landkreis,269694,HE,Hessen,-,,,,,,,,
@@ -180,7 +180,7 @@ https://t.co/s07Gvg7Hc6",3066,83,6151,Hagen,145595056
 07140,Rhein-Hunsrück-Kreis,Landkreis,102937,RP,Rheinland-Pfalz,?,,,,,,,,
 07141,Rhein-Lahn-Kreis,Landkreis,122308,RP,Rheinland-Pfalz,?,,,,,,,,
 07143,Westerwaldkreis,Landkreis,201597,RP,Rheinland-Pfalz,?,,,,,,,,
-07211,Trier,Kreisfreie Stadt,110636,RP,Rheinland-Pfalz,Stadt_Trier,https://twitter.com/Stadt_Trier,stadt_trier,Neues aus der ältesten Stadt Deutschlands: Hier twittert das Presseamt aus Trier. Impressum https://t.co/jvu5plTxPy Datenschutz: https://t.co/xeHX4ElzGc,3584,695,3269,"Trier, Deutschland",455843411
+07211,Trier,Kreisfreie Stadt,110636,RP,Rheinland-Pfalz,Stadt_Trier,https://twitter.com/Stadt_Trier,stadt_trier,Neues aus der ältesten Stadt Deutschlands: Hier twittert das Presseamt aus Trier. Impressum https://t.co/jvu5plTxPy Datenschutz: https://t.co/xeHX4ElzGc,3585,695,3269,"Trier, Deutschland",455843411
 07231,Bernkastel-Wittlich,Landkreis,112262,RP,Rheinland-Pfalz,?,,,,,,,,
 07232,Eifelkreis Bitburg-Prüm,Landkreis,98561,RP,Rheinland-Pfalz,?,,,,,,,,
 07233,Vulkaneifel,Landkreis,60603,RP,Rheinland-Pfalz,?,,,,,,,,
@@ -188,9 +188,7 @@ https://t.co/s07Gvg7Hc6",3066,83,6151,Hagen,145595056
 07311,Frankenthal (Pfalz),Kreisfreie Stadt,48561,RP,Rheinland-Pfalz,Stadt_FT,https://twitter.com/Stadt_FT,frankenthal_pfalz,,54,28,31,,1098197515877392384
 07312,Kaiserslautern,Kreisfreie Stadt,99845,RP,Rheinland-Pfalz,StadtKL,https://twitter.com/StadtKL,Stadt Kaiserslautern,"Hier twittert die Pressestelle der Stadt Kaiserslautern. 
 Impressum und Datenschutzerklärung: https://t.co/CgDA1Xla1R",2108,37,4335,Kaiserslautern,202117639
-07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,Landau_Pfalz1,https://twitter.com/Landau_Pfalz1,Landau_Pfalz,"Die kreisfreie Stadt Landau in der Pfalz stellt sich vor
-
-Firmen, Unternehmer, Handwerker, Dienstleister und vieles mehr aus Landau in der Pfalz",901,1008,47206,Rheinland-Pfalz,825466129
+07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,-,,,,,,,,
 07314,Ludwigshafen am Rhein,Kreisfreie Stadt,171061,RP,Rheinland-Pfalz,ludwigshafen_de,https://twitter.com/ludwigshafen_de,Stadt Ludwigshafen,Offizieller Twitter-Account der Stadt Ludwigshafen am Rhein. Impressum und Netiquette: https://t.co/dOpm93bKxA,3733,63,3959,,85328923
 07315,Mainz,Kreisfreie Stadt,217118,RP,Rheinland-Pfalz,stadtmainz,https://twitter.com/stadtmainz,Stadt Mainz,,63,0,0,,88048821
 07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,Neustadt_Wstr,https://twitter.com/Neustadt_Wstr,Neustadt Weinstraße,Offizieller Twitter-Account für Tourismus in der Genuss- und Weinerlebnisregion Neustadt an der Weinstraße und seinen Weindörfern.,863,262,1998,Neustadt an der Weinstraße,3096988881
@@ -225,7 +223,7 @@ Impressum: https://t.co/YiPEgoyRRK",617,160,3029,Pirmasens,123565708
 08136,Ostalbkreis,Landkreis,314002,BW,Baden-Württemberg,LRA_Ostalbkreis,https://twitter.com/LRA_Ostalbkreis,Ostalbkreis,Hier twittert die Pressestelle des Landratsamts Ostalbkreis,1016,49,4929,Aalen,121401195
 08211,Baden-Baden,Stadtkreis,55123,BW,Baden-Württemberg,StadtBadenBaden,https://twitter.com/StadtBadenBaden,Rathaus Baden-Baden,"Offizieller Twitter Account der Stadt Baden-Baden | Aktuelles, Veranstaltungen, Nachrichten",893,84,790,"Baden-Baden, Deutschland",218535877
 08212,Karlsruhe,Stadtkreis,313092,BW,Baden-Württemberg,Stadt_Karlsruhe,https://twitter.com/Stadt_Karlsruhe,Stadt Karlsruhe,"Offizieller Twitter-Account der Stadt Karlsruhe.
-Nachrichten und Mitteilungen aus dem Rathaus. (http://t.co/p8Pj85N2dX)",9049,10,5814,Karlsruhe,191947020
+Nachrichten und Mitteilungen aus dem Rathaus. (http://t.co/p8Pj85N2dX)",9050,10,5814,Karlsruhe,191947020
 08215,Karlsruhe,Landkreis,444232,BW,Baden-Württemberg,-,,,,,,,,
 08216,Rastatt,Landkreis,231018,BW,Baden-Württemberg,?,,,,,,,,
 08221,Heidelberg,Stadtkreis,160355,BW,Baden-Württemberg,heidelberg_de,https://twitter.com/heidelberg_de,Stadt Heidelberg,Willkommen auf der offiziellen Twitter-Seite der Stadt Heidelberg! Hier twittert das Amt für Öffentlichkeitsarbeit News aus der Wohlfühl-Stadt am Neckar.,10309,140,11247,,183171384
@@ -259,7 +257,7 @@ https://t.co/EO7d6nY5nP",195,36,207,"Baden-Württemberg, Germany",413110579
 08437,Sigmaringen,Landkreis,130873,BW,Baden-Württemberg,?,,,,,,,,
 09161,Ingolstadt,Kreisfreie Stadt,136981,BY,Bayern,Ingolstadt_IN,https://twitter.com/Ingolstadt_IN,Stadt Ingolstadt,Hier twittert die Social-Media-Redaktion des Presseamtes. Der offizielle Twitter-Kanal der Stadt Ingolstadt,3768,389,3499,Ingolstadt,105115149
 09162,München,Kreisfreie Stadt,1471508,BY,Bayern,muenchen,https://twitter.com/muenchen,München,"Das offizielle Stadtportal für München. 
-https://t.co/TCsvEESnk0",251287,46,13563,"Munich, Bavaria, Germany",17229628
+https://t.co/TCsvEESnk0",251284,46,13563,"Munich, Bavaria, Germany",17229628
 09163,Rosenheim,Kreisfreie Stadt,63324,BY,Bayern,StadtRosenheim,https://twitter.com/StadtRosenheim,Stadt Rosenheim,Offizieller Twitter-Account der Stadt Rosenheim,40,6,23,Rosenheim,877857673441574912
 09171,Altötting,Landkreis,111210,BY,Bayern,?,,,,,,,,
 09172,Berchtesgadener Land,Landkreis,105722,BY,Bayern,?,,,,,,,,
@@ -294,7 +292,7 @@ https://t.co/TCsvEESnk0",251287,46,13563,"Munich, Bavaria, Germany",17229628
 09278,Straubing-Bogen,Landkreis,100649,BY,Bayern,?,,,,,,,,
 09279,Dingolfing-Landau,Landkreis,96217,BY,Bayern,?,,,,,,,,
 09361,Amberg,Kreisfreie Stadt,41970,BY,Bayern,Amberg_Stadt,https://twitter.com/Amberg_Stadt,Stadt Amberg,,17,0,0,,135786946
-09362,Regensburg,Kreisfreie Stadt,152610,BY,Bayern,stadtregensburg,https://twitter.com/stadtregensburg,Stadt Regensburg,"Stadt Regensburg: Welterbe, Universitätsstadt, moderner Wirtschaftsstandort... Alt und neu zugleich",5812,39,9028,"Bavaria, Germany",18163152
+09362,Regensburg,Kreisfreie Stadt,152610,BY,Bayern,stadtregensburg,https://twitter.com/stadtregensburg,Stadt Regensburg,"Stadt Regensburg: Welterbe, Universitätsstadt, moderner Wirtschaftsstandort... Alt und neu zugleich",5811,39,9028,"Bavaria, Germany",18163152
 09363,Weiden i.d. OPf.,Kreisfreie Stadt,42520,BY,Bayern,Weiden_Pfalz,https://twitter.com/Weiden_Pfalz,Weiden (Oberpfalz),Lokale Nachrichten und Informationen aus Weiden in der Oberpfalz auch auf Facebook unter http://t.co/2NrKjHna4s,115,0,512,Weiden (Oberpfalz),80861801
 09371,Amberg-Sulzbach,Landkreis,103109,BY,Bayern,?,,,,,,,,
 09372,Cham,Landkreis,127882,BY,Bayern,?,,,,,,,,
@@ -319,7 +317,7 @@ https://t.co/TCsvEESnk0",251287,46,13563,"Munich, Bavaria, Germany",17229628
 09561,Ansbach,Kreisfreie Stadt,41847,BY,Bayern,StadtAnsbach,https://twitter.com/StadtAnsbach,Stadt Ansbach,http://t.co/BnngFzpS0W,166,9,1,"Ansbach, Mfr.",306179803
 09562,Erlangen,Kreisfreie Stadt,111962,BY,Bayern,erlangen_de,https://twitter.com/erlangen_de,Stadt Erlangen,Offizieller Account der Stadt Erlangen | Hier twittert das eGovernment-Center | Aktuelles & Interessantes aus Erlangen. https://t.co/571Oym7OWf,7131,1220,24444,Rathaus Erlangen,16129782
 09563,Fürth,Kreisfreie Stadt,127748,BY,Bayern,stadtfuerth,https://twitter.com/stadtfuerth,Stadt Fürth ☘,Offizieller Account der #Kleeblattstadt Fürth. ☘ Hier twittert für Euch das Bürgermeister- und Presseamt. Impressum: https://t.co/mNr2Fnm8fb,1250,70,596,"Fürth, Deutschland",1111285413447155718
-09564,Nürnberg,Kreisfreie Stadt,518365,BY,Bayern,nuernberg_de,https://twitter.com/nuernberg_de,Stadt Nürnberg,"Neues, Interessantes und Schönes aus Nürnberg, getwittert vom Presse- und Informationsamt der Stadt Nürnberg. Impressum: http://t.co/E0kbAoi14I",89117,874,11653,"Nürnberg / Nuremberg, Germany",22136838
+09564,Nürnberg,Kreisfreie Stadt,518365,BY,Bayern,nuernberg_de,https://twitter.com/nuernberg_de,Stadt Nürnberg,"Neues, Interessantes und Schönes aus Nürnberg, getwittert vom Presse- und Informationsamt der Stadt Nürnberg. Impressum: http://t.co/E0kbAoi14I",89118,874,11653,"Nürnberg / Nuremberg, Germany",22136838
 09565,Schwabach,Kreisfreie Stadt,40792,BY,Bayern,stadt_schwabach,https://twitter.com/stadt_schwabach,Stadt Schwabach,"Die Goldschlägerstadt. Es twittern: Pressesprecher Jürgen Ramspeck (JR), Museumsleiter Tobias Schmid (TS) und vhs-Mitarbeiterin Karin Jakob (KJ).",945,136,1515,Schwabach,76620590
 09571,Ansbach,Landkreis,183949,BY,Bayern,?,,,,,,,,
 09572,Erlangen-Höchstadt,Landkreis,136271,BY,Bayern,LRA_ERH,https://twitter.com/LRA_ERH,Landkreis Erlangen-Höchstadt,"Das offizielle Landkreisportal. Hier twittert die Pressestelle des Landratsamtes. Über Karpfen, Kräuter, Kren und Kirschen - und viel mehr.",198,109,375,"Erlangen, Deutschland",897465256582230018
@@ -340,11 +338,9 @@ https://t.co/TCsvEESnk0",251287,46,13563,"Munich, Bavaria, Germany",17229628
 09677,Main-Spessart,Landkreis,126365,BY,Bayern,?,,,,,,,,
 09678,Schweinfurt,Landkreis,115106,BY,Bayern,?,,,,,,,,
 09679,Würzburg,Landkreis,161834,BY,Bayern,?,,,,,,,,
-09761,Augsburg,Kreisfreie Stadt,295135,BY,Bayern,stadtaugsburg,https://twitter.com/stadtaugsburg,Stadt Augsburg,Hier twittert – ganz offiziell – die Stadt Augsburg.,5746,371,3179,Augsburg,1303239385
+09761,Augsburg,Kreisfreie Stadt,295135,BY,Bayern,stadtaugsburg,https://twitter.com/stadtaugsburg,Stadt Augsburg,Hier twittert – ganz offiziell – die Stadt Augsburg.,5745,371,3179,Augsburg,1303239385
 09762,Kaufbeuren,Kreisfreie Stadt,43893,BY,Bayern,-,,,,,,,,
-09763,Kempten (Allgäu),Kreisfreie Stadt,68907,BY,Bayern,Kempten2,https://twitter.com/Kempten2,Kempten,"Die kreisfreie Stadt Kempten stellt sich vor
-
-Firmen, Unternehmer, Handwerker, Dienstleister und vieles mehr aus Kempten",1383,1590,26359,Bayern,615064281
+09763,Kempten (Allgäu),Kreisfreie Stadt,68907,BY,Bayern,-,,,,,,,,
 09764,Memmingen,Kreisfreie Stadt,43837,BY,Bayern,StadtMM,https://twitter.com/StadtMM,Stadt Memmingen,"Die Stadtverwaltung Memmingen twittert, vor allem über Neuigkeiten im städtischen youtube-Kanal oder andere interessante Videos.",393,0,226,Memmingen,145948815
 09771,Aichach-Friedberg,Landkreis,133596,BY,Bayern,?,,,,,,,,
 09772,Augsburg,Landkreis,251534,BY,Bayern,?,,,,,,,,
@@ -411,7 +407,7 @@ Netiquette: https://t.co/e8dtjuXNVv",2234,225,6830,Berlin Treptow-Köpenick,4186
 14626,Görlitz,Landkreis,254894,SN,Sachsen,-,,,,,,,,
 14627,Meißen,Landkreis,242165,SN,Sachsen,?,,,,,,,,
 14628,Sächsische Schweiz-Osterzgebirge,Landkreis,245611,SN,Sachsen,-,,,,,,,,
-14713,Leipzig,Kreisfreie Stadt,587857,SN,Sachsen,StadtLeipzig,https://twitter.com/StadtLeipzig,Stadt Leipzig,"Offizielle Seite der Stadt Leipzig. Aktuelles, Infos und Tipps aus Leipzig. Offen für Fragen und Hinweise. http://t.co/rrvcuPSS.  https://t.co/IwuJCCkb79",68844,190,18455,Leipzig,82838096
+14713,Leipzig,Kreisfreie Stadt,587857,SN,Sachsen,StadtLeipzig,https://twitter.com/StadtLeipzig,Stadt Leipzig,"Offizielle Seite der Stadt Leipzig. Aktuelles, Infos und Tipps aus Leipzig. Offen für Fragen und Hinweise. http://t.co/rrvcuPSS.  https://t.co/IwuJCCkb79",68845,190,18455,Leipzig,82838096
 14729,Leipzig,Landkreis,257763,SN,Sachsen,KreisLeipzig,https://twitter.com/KreisLeipzig,Landkreis Leipzig,"Offizielle Seite des Landkreises Leipzig mit aktuellen Informationen.
 https://t.co/SqXftu7bQd",48,0,4,,793825267168923648
 14730,Nordsachsen,Landkreis,197673,SN,Sachsen,?,,,,,,,,
