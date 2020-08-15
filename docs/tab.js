@@ -26,7 +26,7 @@ function defineTable() {
                 }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
             },
             {
-                title: "Tweets;", field: "Twitter Tweets", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
+                title: "Tweets", field: "Twitter Tweets", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
                     alignEmptyValues: "bottom"
                 }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
             },
@@ -58,9 +58,7 @@ function defineTable() {
     });
 
     table.setSort([
-        { column: "Landkreis", dir: "asc" },
-        { column: "Bundesland", dir: "asc" },
-        { column: "Cases_Last_Week_Per_100000", dir: "desc" }, //sort by this first
+        { column: "Twitter Tweets", dir: "desc" },
     ]);
 
     return table;
