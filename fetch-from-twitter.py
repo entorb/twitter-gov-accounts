@@ -160,10 +160,9 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
 <body>
 <h1>Liste der Twitter Accounts der Deutschen Stadtkreise und Landkreise</h1>
 <p>
-Die Liste wurde händisch erstellt und ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt via GitHub Pull Request in die Datei <a href="https://github.com/entorb/twitter-gov-accounts/blob/master/data/DE-Landkreise-in.csv">data/DE-Landkreise-in.csv</a> einpflegen.
+Dies Liste ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt via GitHub Pull Request in die Datei <a href="https://github.com/entorb/twitter-gov-accounts/blob/master/data/DE-Landkreise-in.csv">data/DE-Landkreise-in.csv</a> einpflegen.
 </p>
-<p>Stand: {date}</p>
-"""
+<p>Stand: {date}</p>"""
              +
              """
     <div id="table-de-districts"></div>
