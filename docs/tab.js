@@ -30,7 +30,11 @@ function defineTable() {
                     alignEmptyValues: "bottom"
                 }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
             },
-
+            {
+                title: "Following", field: "Twitter Following", sorter: "number", width: 130, hozAlign: "right", sorterParams: {
+                    alignEmptyValues: "bottom"
+                }, headerFilter: true, headerFilterPlaceholder: "filter >=", headerFilterFunc: ">=",
+            },
         ],
         rowClick: function (e, row) {
             var rowData = row.getData();

@@ -148,6 +148,13 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
     <meta charset="utf-8">
     <meta name="author" content="Dr. Torben Menke">
     <link rel="stylesheet" href="https://entorb.net/style.css" />
+    <script src="./tab.js"></script>
+    <!-- Polyfiles for IE, suggested by Tabulator : http://tabulator.info/docs/4.6/browsers#ie -->
+    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/polyfill.min.js"></script>
+    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/fetch.umd.js"></script>
+    <!-- Tabulator -->
+    <link href="https://entorb.net/COVID-19-coronavirus/tabulator/tabulator.min.css" rel="stylesheet">
+    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/tabulator-4.6.min.js"></script>
 </head>
 
 <body>
@@ -156,27 +163,46 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
 Die Liste wurde händisch erstellt und ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt via GitHub Pull Request in die Datei <a href="https://github.com/entorb/twitter-gov-accounts/blob/master/data/DE-Landkreise-in.csv">data/DE-Landkreise-in.csv</a> einpflegen.
 </p>
 <p>Stand: {date}</p>
-<table border="1" cellpadding="2" cellspacing="0">
-<tr>
-<th>Name</th>
-<th>Einwohner</th>
-<th>Bundesland</th>
-<th>Twitter Account</th>
-<th>Tweets</th>
-<th>Follower</th>
-</tr>
+"""
+             +
+             """
+    <div id="table-de-districts"></div>
+    <script>
+        // variables
+        const promises = []; // array of promises for async fetching
+        // ASync JQuery fetching
+        function fetch_table_data() {
+            table.setData("https://entorb.github.io/twitter-gov-accounts/DE-Landkreise-out.json", {}, "get")
+        }
+        // define and populate table
+        var table = defineTable();
+        promises.push(fetch_table_data());
+    </script>
+</body>\n</html>
 """)
-    rowcount = 0
-    for d in l_landkreise:
-        rowcount += 1
-        fh.write(
-            f"""<tr class="r{1 + rowcount % 2}"><td>{d['LK_Name']} ({d['LK_Type']})</td><td>{d['Population']}</td><td>{d['BL_Name']}</td>""")
-        if 'Twitter ID' in d:
-            fh.write(
-                f"""<td><a href="{d['Twitter URL']}" target="_blank">{d['Twitter Account']}</a></td>""")
-            fh.write(
-                f"<td>{d['Twitter Tweets']}</td><td>{d['Twitter Follower']}</td></tr>\n")
-        else:
-            fh.write(f"<td>{d['Twitter Account']}</td>")
-            fh.write("<td>&nbsp;</td><td>&nbsp;</td></tr>\n")
-    fh.write("</table>\n</body>\n</html>")
+# +
+# """
+# <table border="1" cellpadding="2" cellspacing="0">
+# <tr>
+# <th>Name</th>
+# <th>Einwohner</th>
+# <th>Bundesland</th>
+# <th>Twitter Account</th>
+# <th>Tweets</th>
+# <th>Follower</th>
+# </tr>
+# """)
+#     rowcount = 0
+#     for d in l_landkreise:
+#         rowcount += 1
+#         fh.write(
+#             f"""<tr class="r{1 + rowcount % 2}"><td>{d['LK_Name']} ({d['LK_Type']})</td><td>{d['Population']}</td><td>{d['BL_Name']}</td>""")
+#         if 'Twitter ID' in d:
+#             fh.write(
+#                 f"""<td><a href="{d['Twitter URL']}" target="_blank">{d['Twitter Account']}</a></td>""")
+#             fh.write(
+#                 f"<td>{d['Twitter Tweets']}</td><td>{d['Twitter Follower']}</td></tr>\n")
+#         else:
+#             fh.write(f"<td>{d['Twitter Account']}</td>")
+#             fh.write("<td>&nbsp;</td><td>&nbsp;</td></tr>\n")
+#     fh.write("</table>\n</body>\n</html>")
