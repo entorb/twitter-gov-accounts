@@ -6,7 +6,10 @@ import requests  # for read_url_or_cachefile
 from configparser import ConfigParser
 import json
 
-# http://api.twittercounter.com?twitter_id=813286&apikey=[api_key]
+# TODO: make replace index.html a static page and fill update date via javascript, instead of re-generation the file on each script run.
+
+if not os.path.isdir('cache'):
+    os.mkdir('cache')
 
 
 def request_url(url: str, request_type: str = 'get', payload: dict = {}) -> dict:
@@ -33,6 +36,31 @@ def fetch_user_metadata(username: str) -> dict:
         d = {}
         print(error)
     return d
+
+
+def fetch_user_metadata_from_cache_or_web(username: str) -> dict:
+    cache_file = f'cache/{username}.json'
+    if check_cache_file_available_and_recent(fname=cache_file):
+        with open(file=cache_file, mode='r', encoding='utf-8') as fh:
+            d_json = json.load(fh)
+    else:
+        d_json = fetch_user_metadata(username)
+        with open(cache_file, mode='w', encoding='utf-8', newline='\n') as fh:
+            json.dump(d_json, fh, ensure_ascii=False, sort_keys=True)
+    return d_json
+
+
+def check_cache_file_available_and_recent(fname: str, max_age: int = 3600, verbose: bool = False) -> bool:
+    b_cache_good = True
+    if not os.path.exists(fname):
+        if verbose:
+            print(f"No Cache available: {fname}")
+        b_cache_good = False
+    if (b_cache_good and time.time() - os.path.getmtime(fname) > max_age):
+        if verbose:
+            print(f"Cache too old: {fname}")
+        b_cache_good = False
+    return b_cache_good
 
 
 # def check_cache_file_available_and_recent(fname: str, max_age: int = 3600, verbose: bool = False) -> bool:
@@ -114,7 +142,8 @@ for d in l_landkreise:
         continue
     print(d['Twitter Account'])
     d["Twitter URL"] = f"https://twitter.com/{d['Twitter Account']}"
-    d_twitter_user_meta_data = fetch_user_metadata(d['Twitter Account'])
+    d_twitter_user_meta_data = fetch_user_metadata_from_cache_or_web(
+        d['Twitter Account'])
     if len(d_twitter_user_meta_data) > 0:
         d["Twitter ID"] = d_twitter_user_meta_data['id']
         d["Twitter Name"] = d_twitter_user_meta_data['name']
@@ -122,7 +151,7 @@ for d in l_landkreise:
         d["Twitter Follower"] = d_twitter_user_meta_data['followers_count']
         d["Twitter Following"] = d_twitter_user_meta_data['friends_count']
         d["Twitter Location"] = d_twitter_user_meta_data['location']
-        d["Twitter Description"] = d_twitter_user_meta_data['description']
+        # d["Twitter Description"] = d_twitter_user_meta_data['description']
         # if 'profile_location' in d_twitter_user_meta_data and d_twitter_user_meta_data['profile_location'] and 'full_name' in d_twitter_user_meta_data['profile_location']:
         #     d["Twitter Location"] = d_twitter_user_meta_data['profile_location']['full_name']
 
@@ -160,7 +189,7 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
 <body>
 <h1>Liste der Twitter Accounts der Deutschen Stadtkreise und Landkreise</h1>
 <p>
-Dies Liste ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt via GitHub Pull Request in die Datei <a href="https://github.com/entorb/twitter-gov-accounts/blob/master/data/DE-Landkreise-in.csv">data/DE-Landkreise-in.csv</a> einpflegen.
+Dies Liste ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt via GitHub Pull Request in die Datei <a href="https://github.com/entorb/twitter-gov-accounts/blob/master/data/DE-Landkreise-in.csv">data/DE-Landkreise-in.csv</a> einpflegen. Quelltext des Auswerteskriptes ist <a href="https://github.com/entorb/twitter-gov-accounts" target="_blank">hier</a> zu finden.
 </p>
 <p>Stand: {date}</p>"""
              +
@@ -179,29 +208,3 @@ Dies Liste ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt vi
     </script>
 </body>\n</html>
 """)
-# +
-# """
-# <table border="1" cellpadding="2" cellspacing="0">
-# <tr>
-# <th>Name</th>
-# <th>Einwohner</th>
-# <th>Bundesland</th>
-# <th>Twitter Account</th>
-# <th>Tweets</th>
-# <th>Follower</th>
-# </tr>
-# """)
-#     rowcount = 0
-#     for d in l_landkreise:
-#         rowcount += 1
-#         fh.write(
-#             f"""<tr class="r{1 + rowcount % 2}"><td>{d['LK_Name']} ({d['LK_Type']})</td><td>{d['Population']}</td><td>{d['BL_Name']}</td>""")
-#         if 'Twitter ID' in d:
-#             fh.write(
-#                 f"""<td><a href="{d['Twitter URL']}" target="_blank">{d['Twitter Account']}</a></td>""")
-#             fh.write(
-#                 f"<td>{d['Twitter Tweets']}</td><td>{d['Twitter Follower']}</td></tr>\n")
-#         else:
-#             fh.write(f"<td>{d['Twitter Account']}</td>")
-#             fh.write("<td>&nbsp;</td><td>&nbsp;</td></tr>\n")
-#     fh.write("</table>\n</body>\n</html>")
