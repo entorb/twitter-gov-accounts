@@ -323,7 +323,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 10044,Saarlouis,Landkreis,195201,SL,Saarland,?,,,,,,,,
 10045,Saarpfalz-Kreis,Landkreis,142631,SL,Saarland,?,,,,,,,,
 10046,St. Wendel,Landkreis,87397,SL,Saarland,?,,,,,,,,
-11000,Berlin,3644800,Hauptstadt,BE,Berlin,berlin_de_news,https://twitter.com/berlin_de_news,Berlin aktuell,,111504,6,146206,Berlin,18760371
+11000,Berlin,Hauptstadt,3644800,BE,Berlin,berlin_de_news,https://twitter.com/berlin_de_news,Berlin aktuell,,111504,6,146206,Berlin,18760371
 11001,Berlin Mitte,Bezirk,384172,BE,Berlin,BA_Mitte_Berlin,https://twitter.com/BA_Mitte_Berlin,Bezirksamt Mitte,,3243,205,6825,"Berlin, Deutschland",2931888743
 11002,Berlin Friedrichshain-Kreuzberg,Bezirk,289762,BE,Berlin,BA_Xhain,https://twitter.com/BA_Xhain,Bezirksamt Friedrichshain-Kreuzberg,,3007,38,1934,"Friedrichshain, Berlin",3307052506
 11003,Berlin Pankow,Bezirk,407765,BE,Berlin,BerlinPkow,https://twitter.com/BerlinPkow,Bezirksamt Pankow,,1783,9,1537,Berlin Pankow,2989481133
