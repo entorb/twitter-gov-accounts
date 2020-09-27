@@ -179,11 +179,11 @@ with open('docs/index.html', mode='w', encoding='utf-8', newline='\n') as fh:
     <link rel="stylesheet" href="https://entorb.net/style.css" />
     <script src="./tab.js"></script>
     <!-- Polyfiles for IE, suggested by Tabulator : http://tabulator.info/docs/4.6/browsers#ie -->
-    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/polyfill.min.js"></script>
-    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/fetch.umd.js"></script>
+    <script src="https://entorb.net/COVID-19-coronavirus/js/tabulator-polyfill.min.js"></script>
+    <script src="https://entorb.net/COVID-19-coronavirus/js/tabulator-fetch.umd.js"></script>
     <!-- Tabulator -->
-    <link href="https://entorb.net/COVID-19-coronavirus/tabulator/tabulator.min.css" rel="stylesheet">
-    <script src="https://entorb.net/COVID-19-coronavirus/tabulator/tabulator-4.6.min.js"></script>
+    <link href="https://entorb.net/COVID-19-coronavirus/js/tabulator.min.css" rel="stylesheet">
+    <script src="https://entorb.net/COVID-19-coronavirus/js/tabulator-4.6.min.js"></script>
 </head>
 
 <body>
