@@ -6,7 +6,7 @@ import requests  # for read_url_or_cachefile
 from configparser import ConfigParser
 import json
 
-# TODO: make replace index.html a static page and fill update date via javascript, instead of re-generation the file on each script run.
+# TODO: replace index.html a static page and fill update date via javascript, instead of re-generation the file on each script run.
 
 if not os.path.isdir('cache'):
     os.mkdir('cache')
