@@ -1,23 +1,23 @@
 LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twitter Name,Twitter Description,Twitter Follower,Twitter Following,Twitter Tweets,Twitter Location,Twitter ID
-01001,Flensburg,Kreisfreie Stadt,89504,SH,Schleswig-Holstein,Stadt_Flensburg,https://twitter.com/Stadt_Flensburg,Stadt Flensburg,,1489,172,546,Flensburg,1310086584
-01002,Kiel,Kreisfreie Stadt,247548,SH,Schleswig-Holstein,stadt_kiel,https://twitter.com/stadt_kiel,Landeshauptstadt Kiel,,9252,284,6771,"Kiel, Germany",102358574
+01001,Flensburg,Kreisfreie Stadt,89504,SH,Schleswig-Holstein,Stadt_Flensburg,https://twitter.com/Stadt_Flensburg,Stadt Flensburg,,1562,171,552,Flensburg,1310086584
+01002,Kiel,Kreisfreie Stadt,247548,SH,Schleswig-Holstein,stadt_kiel,https://twitter.com/stadt_kiel,Landeshauptstadt Kiel,,9589,307,7231,"Kiel, Germany",102358574
 01003,Lübeck,Kreisfreie Stadt,217198,SH,Schleswig-Holstein,-,,,,,,,,
-01004,Neumünster,Kreisfreie Stadt,79487,SH,Schleswig-Holstein,neumuenster,https://twitter.com/neumuenster,Stadt Neumünster,,1511,36,4027,Neumünster,46114470
+01004,Neumünster,Kreisfreie Stadt,79487,SH,Schleswig-Holstein,neumuenster,https://twitter.com/neumuenster,Stadt Neumünster,,1539,38,4132,Neumünster,46114470
 01051,Dithmarschen,Kreis,133210,SH,Schleswig-Holstein,-,,,,,,,,
 01053,Herzogtum Lauenburg,Kreis,197264,SH,Schleswig-Holstein,-,,,,,,,,
 01054,Nordfriesland,Kreis,165507,SH,Schleswig-Holstein,-,,,,,,,,
 01055,Ostholstein,Kreis,200581,SH,Schleswig-Holstein,-,,,,,,,,
-01056,Pinneberg,Kreis,314391,SH,Schleswig-Holstein,Kreis_Pinneberg,https://twitter.com/Kreis_Pinneberg,Kreis Pinneberg,,17,2,1,Kreis Pinneberg,925012436180258816
+01056,Pinneberg,Kreis,314391,SH,Schleswig-Holstein,Kreis_Pinneberg,https://twitter.com/Kreis_Pinneberg,Kreis Pinneberg,,25,2,1,Kreis Pinneberg,925012436180258816
 01057,Plön,Kreis,128647,SH,Schleswig-Holstein,-,,,,,,,,
 01058,Rendsburg-Eckernförde,Kreis,272775,SH,Schleswig-Holstein,-,,,,,,,,
 01059,Schleswig-Flensburg,Kreis,200025,SH,Schleswig-Holstein,-,,,,,,,,
 01060,Segeberg,Kreis,276032,SH,Schleswig-Holstein,-,,,,,,,,
 01061,Steinburg,Kreis,131347,SH,Schleswig-Holstein,-,,,,,,,,
-01062,Stormarn,Kreis,243196,SH,Schleswig-Holstein,Kreis_Stormarn,https://twitter.com/Kreis_Stormarn,Kreis Stormarn,,272,12,321,Bad Oldesloe,1239806655862378496
-02000,Hamburg,Kreisfreie Stadt,1841179,HH,Hamburg,hamburg_de,https://twitter.com/hamburg_de,hamburg.de,,241788,276,12915,Hamburg,11013962
-03101,Braunschweig,Kreisfreie Stadt,248292,NI,Niedersachsen,Stadt_BS,https://twitter.com/Stadt_BS,Stadt Braunschweig,,5197,62,2414,"Braunschweig, Deutschland",828601709475852288
-03102,Salzgitter,Kreisfreie Stadt,104948,NI,Niedersachsen,stadtsalzgitter,https://twitter.com/stadtsalzgitter,Stadt Salzgitter,,1316,53,2005,Salzgitter,2457928795
-03103,Wolfsburg,Kreisfreie Stadt,124151,NI,Niedersachsen,Stadt_Wolfsburg,https://twitter.com/Stadt_Wolfsburg,Stadt.Wolfsburg,,3780,152,6803,Wolfsburg,1396559460
+01062,Stormarn,Kreis,243196,SH,Schleswig-Holstein,Kreis_Stormarn,https://twitter.com/Kreis_Stormarn,Kreis Stormarn,,347,12,396,Bad Oldesloe,1239806655862378496
+02000,Hamburg,Kreisfreie Stadt,1841179,HH,Hamburg,hamburg_de,https://twitter.com/hamburg_de,hamburg.de,,245718,277,13047,Hamburg,11013962
+03101,Braunschweig,Kreisfreie Stadt,248292,NI,Niedersachsen,Stadt_BS,https://twitter.com/Stadt_BS,Stadt Braunschweig,,5536,63,2493,"Braunschweig, Deutschland",828601709475852288
+03102,Salzgitter,Kreisfreie Stadt,104948,NI,Niedersachsen,stadtsalzgitter,https://twitter.com/stadtsalzgitter,Stadt Salzgitter,,1407,55,2069,Salzgitter,2457928795
+03103,Wolfsburg,Kreisfreie Stadt,124151,NI,Niedersachsen,Stadt_Wolfsburg,https://twitter.com/Stadt_Wolfsburg,Stadt.Wolfsburg,,3934,158,6989,Wolfsburg,1396559460
 03151,Gifhorn,Landkreis,175920,NI,Niedersachsen,?,,,,,,,,
 03153,Goslar,Landkreis,137014,NI,Niedersachsen,?,,,,,,,,
 03154,Helmstedt,Landkreis,91307,NI,Niedersachsen,?,,,,,,,,
@@ -25,7 +25,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 03157,Peine,Landkreis,133965,NI,Niedersachsen,?,,,,,,,,
 03158,Wolfenbüttel,Landkreis,119960,NI,Niedersachsen,?,,,,,,,,
 03159,Göttingen,Landkreis,328074,NI,Niedersachsen,-,,,,,,,,
-03241,Region Hannover,Landkreis,1157624,NI,Niedersachsen,regionhannover_,https://twitter.com/regionhannover_,Region Hannover,,12044,385,8072,Hannover,169050559
+03241,Region Hannover,Landkreis,1157624,NI,Niedersachsen,regionhannover_,https://twitter.com/regionhannover_,Region Hannover,,12707,386,8221,Hannover,169050559
 03251,Diepholz,Landkreis,216886,NI,Niedersachsen,?,,,,,,,,
 03252,Hameln-Pyrmont,Landkreis,148559,NI,Niedersachsen,?,,,,,,,,
 03254,Hildesheim,Landkreis,276594,NI,Niedersachsen,-,,,,,,,,
@@ -34,20 +34,20 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 03257,Schaumburg,Landkreis,157781,NI,Niedersachsen,?,,,,,,,,
 03351,Celle,Landkreis,178936,NI,Niedersachsen,-,,,,,,,,
 03352,Cuxhaven,Landkreis,198213,NI,Niedersachsen,?,,,,,,,,
-03353,Harburg,Landkreis,252776,NI,Niedersachsen,LKreis_Harburg,https://twitter.com/LKreis_Harburg,Landkreis Harburg,,2284,332,4109,Winsen(Luhe),291684839
+03353,Harburg,Landkreis,252776,NI,Niedersachsen,LKreis_Harburg,https://twitter.com/LKreis_Harburg,Landkreis Harburg,,2387,347,4294,Winsen(Luhe),291684839
 03354,Lüchow-Dannenberg,Landkreis,48424,NI,Niedersachsen,?,,,,,,,,
-03355,Lüneburg,Landkreis,183372,NI,Niedersachsen,lk_lueneburg,https://twitter.com/lk_lueneburg,Landkreis Lüneburg,,3626,85,6772,"Lüneburg, Germany",8539882
+03355,Lüneburg,Landkreis,183372,NI,Niedersachsen,lk_lueneburg,https://twitter.com/lk_lueneburg,Landkreis Lüneburg,,3780,87,7121,"Lüneburg, Germany",8539882
 03356,Osterholz,Landkreis,113517,NI,Niedersachsen,?,,,,,,,,
 03357,Rotenburg (Wümme),Landkreis,163455,NI,Niedersachsen,?,,,,,,,,
 03358,Heidekreis,Landkreis,139755,NI,Niedersachsen,?,,,,,,,,
 03359,Stade,Landkreis,203102,NI,Niedersachsen,?,,,,,,,,
 03360,Uelzen,Landkreis,92572,NI,Niedersachsen,?,,,,,,,,
 03361,Verden,Landkreis,136792,NI,Niedersachsen,?,,,,,,,,
-03401,Delmenhorst,Kreisfreie Stadt,77607,NI,Niedersachsen,delmenhorst_de,https://twitter.com/delmenhorst_de,Stadt Delmenhorst,,1408,39,2219,Delmenhorst | Germany,245290856
-03402,Emden,Kreisfreie Stadt,50195,NI,Niedersachsen,StadtEmden,https://twitter.com/StadtEmden,Stadtportal Emden,,118,0,0,Emden - Ostfriesland,199218711
+03401,Delmenhorst,Kreisfreie Stadt,77607,NI,Niedersachsen,delmenhorst_de,https://twitter.com/delmenhorst_de,Stadt Delmenhorst,,1479,39,2361,Delmenhorst | Germany,245290856
+03402,Emden,Kreisfreie Stadt,50195,NI,Niedersachsen,StadtEmden,https://twitter.com/StadtEmden,Stadtportal Emden,,127,0,0,Emden - Ostfriesland,199218711
 03403,Oldenburg (Oldb),Kreisfreie Stadt,168210,NI,Niedersachsen,-,,,,,,,,
-03404,Osnabrück,Kreisfreie Stadt,164748,NI,Niedersachsen,StadtOsnabrueck,https://twitter.com/StadtOsnabrueck,Stadt Osnabrück,,9683,189,5291,Osnabrück / Deutschland,46370708
-03405,Wilhelmshaven,Kreisfreie Stadt,76278,NI,Niedersachsen,StadtWHV,https://twitter.com/StadtWHV,Stadt Wilhelmshaven,,1342,0,2269,Wilhelmshaven,253007661
+03404,Osnabrück,Kreisfreie Stadt,164748,NI,Niedersachsen,StadtOsnabrueck,https://twitter.com/StadtOsnabrueck,Stadt Osnabrück,,9866,190,5354,Osnabrück / Deutschland,46370708
+03405,Wilhelmshaven,Kreisfreie Stadt,76278,NI,Niedersachsen,StadtWHV,https://twitter.com/StadtWHV,Stadt Wilhelmshaven,,1369,0,2269,Wilhelmshaven,253007661
 03451,Ammerland,Landkreis,124071,NI,Niedersachsen,?,,,,,,,,
 03452,Aurich,Landkreis,189848,NI,Niedersachsen,?,,,,,,,,
 03453,Cloppenburg,Landkreis,169348,NI,Niedersachsen,?,,,,,,,,
@@ -56,74 +56,74 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 03456,Grafschaft Bentheim,Landkreis,136511,NI,Niedersachsen,?,,,,,,,,
 03457,Leer,Landkreis,169809,NI,Niedersachsen,?,,,,,,,,
 03458,Oldenburg,Landkreis,130144,NI,Niedersachsen,?,,,,,,,,
-03459,Osnabrück,Landkreis,357343,NI,Niedersachsen,lkosnabrueck,https://twitter.com/lkosnabrueck,Landkreis Osnabrück,,5906,106,5579,Osnabrück,126570904
+03459,Osnabrück,Landkreis,357343,NI,Niedersachsen,lkosnabrueck,https://twitter.com/lkosnabrueck,Landkreis Osnabrück,,6011,107,5631,Osnabrück,126570904
 03460,Vechta,Landkreis,141598,NI,Niedersachsen,?,,,,,,,,
 03461,Wesermarsch,Landkreis,88624,NI,Niedersachsen,?,,,,,,,,
 03462,Wittmund,Landkreis,56882,NI,Niedersachsen,?,,,,,,,,
-04011,Bremen,Kreisfreie Stadt,569352,HB,Bremen,bremen_de,https://twitter.com/bremen_de,Stadt Bremen,,51326,440,9175,Bremen,23926662
-04012,Bremerhaven,Kreisfreie Stadt,113634,HB,Bremen,bremerhaven_de,https://twitter.com/bremerhaven_de,Stadt Bremerhaven,,2669,136,2564,Bremerhaven,335167862
-05111,Düsseldorf,Kreisfreie Stadt,619294,NW,Nordrhein-Westfalen,Duesseldorf,https://twitter.com/Duesseldorf,Stadt Düsseldorf,,64082,223,11985,Düsseldorf / Germany,117684042
-05112,Duisburg,Kreisfreie Stadt,498590,NW,Nordrhein-Westfalen,duisburg_de,https://twitter.com/duisburg_de,Stadt Duisburg,,13103,801,8027,Duisburg,38818464
-05113,Essen,Kreisfreie Stadt,583109,NW,Nordrhein-Westfalen,Essen_Ruhr,https://twitter.com/Essen_Ruhr,Stadt Essen,,15174,464,17106,Essen,413192825
-05114,Krefeld,Kreisfreie Stadt,227020,NW,Nordrhein-Westfalen,KrefeldStadt,https://twitter.com/KrefeldStadt,Stadt Krefeld,,15,0,0,Krefeld,1261626212130193408
-05116,Mönchengladbach,Kreisfreie Stadt,261454,NW,Nordrhein-Westfalen,StadtMG,https://twitter.com/StadtMG,Stadt MG,,2643,145,3666,Mönchengladbach,103948627
-05117,Mülheim an der Ruhr,Kreisfreie Stadt,170880,NW,Nordrhein-Westfalen,Muelheim_Ruhr,https://twitter.com/Muelheim_Ruhr,Mülheim an der Ruhr,,4646,90,8854,Mülheim an der Ruhr,59711411
-05119,Oberhausen,Kreisfreie Stadt,210829,NW,Nordrhein-Westfalen,StadtOberhausen,https://twitter.com/StadtOberhausen,Stadt Oberhausen,,241,9,17,Oberhausen,1216656026684022784
+04011,Bremen,Kreisfreie Stadt,569352,HB,Bremen,bremen_de,https://twitter.com/bremen_de,Stadt Bremen,,52092,440,9344,Bremen,23926662
+04012,Bremerhaven,Kreisfreie Stadt,113634,HB,Bremen,bremerhaven_de,https://twitter.com/bremerhaven_de,Stadt Bremerhaven,,2776,136,2685,Bremerhaven,335167862
+05111,Düsseldorf,Kreisfreie Stadt,619294,NW,Nordrhein-Westfalen,Duesseldorf,https://twitter.com/Duesseldorf,Stadt Düsseldorf,,65501,222,12216,Düsseldorf / Germany,117684042
+05112,Duisburg,Kreisfreie Stadt,498590,NW,Nordrhein-Westfalen,duisburg_de,https://twitter.com/duisburg_de,Stadt Duisburg,,13375,801,8090,Duisburg,38818464
+05113,Essen,Kreisfreie Stadt,583109,NW,Nordrhein-Westfalen,Essen_Ruhr,https://twitter.com/Essen_Ruhr,Stadt Essen,,15561,468,17399,Essen,413192825
+05114,Krefeld,Kreisfreie Stadt,227020,NW,Nordrhein-Westfalen,KrefeldStadt,https://twitter.com/KrefeldStadt,Stadt Krefeld,,25,0,0,Krefeld,1261626212130193408
+05116,Mönchengladbach,Kreisfreie Stadt,261454,NW,Nordrhein-Westfalen,StadtMG,https://twitter.com/StadtMG,Stadt MG,,2716,143,3687,Mönchengladbach,103948627
+05117,Mülheim an der Ruhr,Kreisfreie Stadt,170880,NW,Nordrhein-Westfalen,Muelheim_Ruhr,https://twitter.com/Muelheim_Ruhr,Mülheim an der Ruhr,,4735,90,8981,Mülheim an der Ruhr,59711411
+05119,Oberhausen,Kreisfreie Stadt,210829,NW,Nordrhein-Westfalen,StadtOberhausen,https://twitter.com/StadtOberhausen,Stadt Oberhausen,,309,10,22,Oberhausen,1216656026684022784
 05120,Remscheid,Kreisfreie Stadt,110994,NW,Nordrhein-Westfalen,-,,,,,,,,
-05122,Solingen,Kreisfreie Stadt,159360,NW,Nordrhein-Westfalen,Klingenstadt,https://twitter.com/Klingenstadt,Klingenstadt Solingen,,653,36,301,"Solingen, Deutschland",1056851352930971648
+05122,Solingen,Kreisfreie Stadt,159360,NW,Nordrhein-Westfalen,Klingenstadt,https://twitter.com/Klingenstadt,Klingenstadt Solingen,,714,36,301,"Solingen, Deutschland",1056851352930971648
 05124,Wuppertal,Kreisfreie Stadt,354382,NW,Nordrhein-Westfalen,-,,,,,,,,
-05154,Kleve,Kreis,310974,NW,Nordrhein-Westfalen,Kreis_Kleve,https://twitter.com/Kreis_Kleve,Kreis Kleve,,84,7,0,"Kleve, Nordrhein-Westfalen",746349908765122560
+05154,Kleve,Kreis,310974,NW,Nordrhein-Westfalen,Kreis_Kleve,https://twitter.com/Kreis_Kleve,Kreis Kleve,,94,7,0,"Kleve, Nordrhein-Westfalen",746349908765122560
 05158,Mettmann,Kreis,485684,NW,Nordrhein-Westfalen,-,,,,,,,,
-05162,Rhein-Kreis Neuss,Kreis,451007,NW,Nordrhein-Westfalen,rheinkreisneuss,https://twitter.com/rheinkreisneuss,Rhein-Kreis Neuss,,2401,18,3808,"Neuss, Deutschland",108539095
-05166,Viersen,Kreis,298935,NW,Nordrhein-Westfalen,kreisviersen,https://twitter.com/kreisviersen,Kreis Viersen,,2030,137,7396,Viersen,146365888
-05170,Wesel,Kreis,459809,NW,Nordrhein-Westfalen,kreiswesel,https://twitter.com/kreiswesel,Kreis Wesel,,799,79,969,"Wesel, Nordrhein-Westfalen",214035448
-05314,Bonn,Kreisfreie Stadt,327258,NW,Nordrhein-Westfalen,bonn_de,https://twitter.com/bonn_de,Stadt Bonn,,218,0,0,,87286300
-05315,Köln,Kreisfreie Stadt,1085664,NW,Nordrhein-Westfalen,Koeln,https://twitter.com/Koeln,Stadt Köln,,31705,444,9031,"Köln, Deutschland",1171286929
+05162,Rhein-Kreis Neuss,Kreis,451007,NW,Nordrhein-Westfalen,rheinkreisneuss,https://twitter.com/rheinkreisneuss,Rhein-Kreis Neuss,,2516,17,3818,"Neuss, Deutschland",108539095
+05166,Viersen,Kreis,298935,NW,Nordrhein-Westfalen,kreisviersen,https://twitter.com/kreisviersen,Kreis Viersen,,2074,135,7396,Viersen,146365888
+05170,Wesel,Kreis,459809,NW,Nordrhein-Westfalen,kreiswesel,https://twitter.com/kreiswesel,Kreis Wesel,,849,79,982,"Wesel, Nordrhein-Westfalen",214035448
+05314,Bonn,Kreisfreie Stadt,327258,NW,Nordrhein-Westfalen,bonn_de,https://twitter.com/bonn_de,Stadt Bonn,,219,0,0,,87286300
+05315,Köln,Kreisfreie Stadt,1085664,NW,Nordrhein-Westfalen,Koeln,https://twitter.com/Koeln,Stadt Köln,,34978,443,9389,"Köln, Deutschland",1171286929
 05316,Leverkusen,Kreisfreie Stadt,163838,NW,Nordrhein-Westfalen,leverkusen_de,https://twitter.com/leverkusen_de,Stadt Leverkusen,,0,11,0,,366012581
-05334,Städteregion Aachen,Kreis,555465,NW,Nordrhein-Westfalen,staedteregio_ac,https://twitter.com/staedteregio_ac,StädteRegion Aachen,,117,76,50,Städteregion Aachen,1226559106196082690
-05358,Düren,Kreis,263722,NW,Nordrhein-Westfalen,kreisdueren,https://twitter.com/kreisdueren,KREIS DÜREN,,1887,185,15703,Düren,2230437297
-05362,Rhein-Erft-Kreis,Kreis,470089,NW,Nordrhein-Westfalen,rek_landrat,https://twitter.com/rek_landrat,"Rhein-Erft-Kreis, Der Landrat",,290,123,100,"Bergheim, Deutschland",1232651559328239616
-05366,Euskirchen,Kreis,192840,NW,Nordrhein-Westfalen,KV_Euskirchen,https://twitter.com/KV_Euskirchen,Kreis Euskirchen,,274,39,85,"Euskirchen, Deutschland",1100024480804597760
-05370,Heinsberg,Kreis,254322,NW,Nordrhein-Westfalen,kreisheinsberg,https://twitter.com/kreisheinsberg,Kreis Heinsberg,,616,23,46,,781757152855597056
+05334,Städteregion Aachen,Kreis,555465,NW,Nordrhein-Westfalen,staedteregio_ac,https://twitter.com/staedteregio_ac,StädteRegion Aachen,,131,76,51,Städteregion Aachen,1226559106196082690
+05358,Düren,Kreis,263722,NW,Nordrhein-Westfalen,kreisdueren,https://twitter.com/kreisdueren,KREIS DÜREN,,1972,184,15810,Düren,2230437297
+05362,Rhein-Erft-Kreis,Kreis,470089,NW,Nordrhein-Westfalen,rek_landrat,https://twitter.com/rek_landrat,"Rhein-Erft-Kreis, Der Landrat",,329,123,102,"Bergheim, Deutschland",1232651559328239616
+05366,Euskirchen,Kreis,192840,NW,Nordrhein-Westfalen,KV_Euskirchen,https://twitter.com/KV_Euskirchen,Kreis Euskirchen,,299,39,85,"Euskirchen, Deutschland",1100024480804597760
+05370,Heinsberg,Kreis,254322,NW,Nordrhein-Westfalen,kreisheinsberg,https://twitter.com/kreisheinsberg,Kreis Heinsberg,,635,23,46,,781757152855597056
 05374,Oberbergischer Kreis,Kreis,272471,NW,Nordrhein-Westfalen,-,,,,,,,,
 05378,Rheinisch-Bergischer Kreis,Kreis,283455,NW,Nordrhein-Westfalen,-,,,,,,,,
-05382,Rhein-Sieg-Kreis,Kreis,599780,NW,Nordrhein-Westfalen,RheinSiegKreis,https://twitter.com/RheinSiegKreis,Rhein-Sieg-Kreis,,1840,1,5344,Siegburg,229447270
-05512,Bottrop,Kreisfreie Stadt,117383,NW,Nordrhein-Westfalen,bottrop,https://twitter.com/bottrop,Pressestelle Bottrop,,1385,133,4256,"Bottrop, Germany",156926286
-05513,Gelsenkirchen,Kreisfreie Stadt,260654,NW,Nordrhein-Westfalen,_Gelsenkirchen_,https://twitter.com/_Gelsenkirchen_,Stadt Gelsenkirchen,,4585,168,4867,Gelsenkirchen,227650754
+05382,Rhein-Sieg-Kreis,Kreis,599780,NW,Nordrhein-Westfalen,RheinSiegKreis,https://twitter.com/RheinSiegKreis,Rhein-Sieg-Kreis,,1977,1,5393,Siegburg,229447270
+05512,Bottrop,Kreisfreie Stadt,117383,NW,Nordrhein-Westfalen,bottrop,https://twitter.com/bottrop,Pressestelle Bottrop,,1451,141,4325,"Bottrop, Germany",156926286
+05513,Gelsenkirchen,Kreisfreie Stadt,260654,NW,Nordrhein-Westfalen,_Gelsenkirchen_,https://twitter.com/_Gelsenkirchen_,Stadt Gelsenkirchen,,4668,168,4918,Gelsenkirchen,227650754
 05515,Münster,Kreisfreie Stadt,314319,NW,Nordrhein-Westfalen,MS_Stadt,https://twitter.com/MS_Stadt,Münster,,85,8,0,Münster,486575613
-05554,Borken,Kreis,370676,NW,Nordrhein-Westfalen,akutkreisborken,https://twitter.com/akutkreisborken,Kreis Borken,,1479,39,582,Westmünsterland - Kreis Borken,1207692835
-05558,Coesfeld,Kreis,219929,NW,Nordrhein-Westfalen,KreisCoesfeld,https://twitter.com/KreisCoesfeld,Kreis Coesfeld,,642,4,1807,"Coesfeld, Nordrhein-Westfalen",833632598710697984
-05562,Recklinghausen,Kreis,615261,NW,Nordrhein-Westfalen,StadtRE,https://twitter.com/StadtRE,Stadt Recklinghausen,,595,87,687,"Recklinghausen, NRW",1214182485325574145
-05566,Steinfurt,Kreis,447614,NW,Nordrhein-Westfalen,Kreis_Steinfurt,https://twitter.com/Kreis_Steinfurt,Kreis Steinfurt,,1943,98,2822,,224644072
-05570,Warendorf,Kreis,277783,NW,Nordrhein-Westfalen,Kreis_Warendorf,https://twitter.com/Kreis_Warendorf,kreiswarendorf,,292,18,112,,1234800832878665728
-05711,Bielefeld,Kreisfreie Stadt,333786,NW,Nordrhein-Westfalen,stadtbielefeld,https://twitter.com/stadtbielefeld,Stadt Bielefeld,,7650,95,973,Bielefeld,75987732
-05754,Gütersloh,Kreis,364083,NW,Nordrhein-Westfalen,KreisGuetersloh,https://twitter.com/KreisGuetersloh,Kreis Gütersloh,,1051,40,1220,Kreis Gütersloh,1001363615147061249
+05554,Borken,Kreis,370676,NW,Nordrhein-Westfalen,akutkreisborken,https://twitter.com/akutkreisborken,Kreis Borken,,1537,39,637,Westmünsterland - Kreis Borken,1207692835
+05558,Coesfeld,Kreis,219929,NW,Nordrhein-Westfalen,KreisCoesfeld,https://twitter.com/KreisCoesfeld,Kreis Coesfeld,,694,27,1908,"Coesfeld, Nordrhein-Westfalen",833632598710697984
+05562,Recklinghausen,Kreis,615261,NW,Nordrhein-Westfalen,StadtRE,https://twitter.com/StadtRE,Stadt Recklinghausen,,666,93,835,"Recklinghausen, NRW",1214182485325574145
+05566,Steinfurt,Kreis,447614,NW,Nordrhein-Westfalen,Kreis_Steinfurt,https://twitter.com/Kreis_Steinfurt,Kreis Steinfurt,,2099,98,2893,,224644072
+05570,Warendorf,Kreis,277783,NW,Nordrhein-Westfalen,Kreis_Warendorf,https://twitter.com/Kreis_Warendorf,kreiswarendorf,,342,18,126,,1234800832878665728
+05711,Bielefeld,Kreisfreie Stadt,333786,NW,Nordrhein-Westfalen,stadtbielefeld,https://twitter.com/stadtbielefeld,Stadt Bielefeld,,7801,96,971,Bielefeld,75987732
+05754,Gütersloh,Kreis,364083,NW,Nordrhein-Westfalen,KreisGuetersloh,https://twitter.com/KreisGuetersloh,Kreis Gütersloh,,1153,40,1328,Kreis Gütersloh,1001363615147061249
 05758,Herford,Kreis,250783,NW,Nordrhein-Westfalen,-,,,,,,,,
-05762,Höxter,Kreis,140667,NW,Nordrhein-Westfalen,Kreis_Hoexter,https://twitter.com/Kreis_Hoexter,Kreis Höxter,,341,56,108,"Höxter, Deutschland",897413573592403968
+05762,Höxter,Kreis,140667,NW,Nordrhein-Westfalen,Kreis_Hoexter,https://twitter.com/Kreis_Hoexter,Kreis Höxter,,370,56,109,"Höxter, Deutschland",897413573592403968
 05766,Lippe,Kreis,348391,NW,Nordrhein-Westfalen,-,,,,,,,,
 05770,Minden-Lübbecke,Kreis,310710,NW,Nordrhein-Westfalen,-,,,,,,,,
-05774,Paderborn,Kreis,306890,NW,Nordrhein-Westfalen,KreisPaderborn,https://twitter.com/KreisPaderborn,KreisPaderborn,,1846,165,2900,"Paderborn, Nordrhein-Westfalen",878182953356066817
-05911,Bochum,Kreisfreie Stadt,364628,NW,Nordrhein-Westfalen,bochum_de,https://twitter.com/bochum_de,Stadt Bochum,,11491,190,5939,Bochum / Deutschland,2187883166
-05913,Dortmund,Kreisfreie Stadt,587010,NW,Nordrhein-Westfalen,stadtdortmund,https://twitter.com/stadtdortmund,Stadt Dortmund,,95029,949,29367,Dortmund,28532955
-05914,Hagen,Kreisfreie Stadt,188814,NW,Nordrhein-Westfalen,Hagen_Westfalen,https://twitter.com/Hagen_Westfalen,Stadt Hagen,,3314,50,6405,Hagen,145595056
-05915,Hamm,Kreisfreie Stadt,179111,NW,Nordrhein-Westfalen,hamm_stadt,https://twitter.com/hamm_stadt,Stadt Hamm,,880,84,587,"Hamm, Deutschland",1146072002484215813
-05916,Herne,Kreisfreie Stadt,156374,NW,Nordrhein-Westfalen,Stadt_Herne,https://twitter.com/Stadt_Herne,Stadt Herne,,3061,253,1773,Herne,146043671
+05774,Paderborn,Kreis,306890,NW,Nordrhein-Westfalen,KreisPaderborn,https://twitter.com/KreisPaderborn,KreisPaderborn,,2055,164,3124,"Paderborn, Nordrhein-Westfalen",878182953356066817
+05911,Bochum,Kreisfreie Stadt,364628,NW,Nordrhein-Westfalen,bochum_de,https://twitter.com/bochum_de,Stadt Bochum,,11903,190,6104,Bochum / Deutschland,2187883166
+05913,Dortmund,Kreisfreie Stadt,587010,NW,Nordrhein-Westfalen,stadtdortmund,https://twitter.com/stadtdortmund,Stadt Dortmund,,96394,952,29990,Dortmund,28532955
+05914,Hagen,Kreisfreie Stadt,188814,NW,Nordrhein-Westfalen,Hagen_Westfalen,https://twitter.com/Hagen_Westfalen,Stadt Hagen,,3475,93,6585,Hagen,145595056
+05915,Hamm,Kreisfreie Stadt,179111,NW,Nordrhein-Westfalen,hamm_stadt,https://twitter.com/hamm_stadt,Stadt Hamm,,952,84,665,"Hamm, Deutschland",1146072002484215813
+05916,Herne,Kreisfreie Stadt,156374,NW,Nordrhein-Westfalen,Stadt_Herne,https://twitter.com/Stadt_Herne,Stadt Herne,,3121,255,1813,Herne,146043671
 05954,Ennepe-Ruhr-Kreis,Kreis,324296,NW,Nordrhein-Westfalen,-,,,,,,,,
 05958,Hochsauerlandkreis,Kreis,260475,NW,Nordrhein-Westfalen,-,,,,,,,,
 05962,Märkischer Kreis,Kreis,412120,NW,Nordrhein-Westfalen,-,,,,,,,,
-05966,Olpe,Kreis,134775,NW,Nordrhein-Westfalen,Kreis_Olpe,https://twitter.com/Kreis_Olpe,Kreis Olpe,,55,2,0,Deutschland,1095676414697893889
-05970,Siegen-Wittgenstein,Kreis,278210,NW,Nordrhein-Westfalen,Kreis_SiWi,https://twitter.com/Kreis_SiWi,Siegen-Wittgenstein,,298,3,44,,3402446913
-05974,Soest,Kreis,301902,NW,Nordrhein-Westfalen,KreisSoest,https://twitter.com/KreisSoest,Kreis Soest,,2317,300,10783,Soest,272031261
+05966,Olpe,Kreis,134775,NW,Nordrhein-Westfalen,Kreis_Olpe,https://twitter.com/Kreis_Olpe,Kreis Olpe,,61,2,0,Germany,1095676414697893889
+05970,Siegen-Wittgenstein,Kreis,278210,NW,Nordrhein-Westfalen,Kreis_SiWi,https://twitter.com/Kreis_SiWi,Siegen-Wittgenstein,,342,3,45,,3402446913
+05974,Soest,Kreis,301902,NW,Nordrhein-Westfalen,KreisSoest,https://twitter.com/KreisSoest,Kreis Soest,,2402,299,10908,Soest,272031261
 05978,Unna,Kreis,394782,NW,Nordrhein-Westfalen,-,,,,,,,,
-06411,Darmstadt,Kreisfreie Stadt,159207,HE,Hessen,Stadt_Darmstadt,https://twitter.com/Stadt_Darmstadt,Stadt Darmstadt,,6207,318,4345,Wissenschaftsstadt Darmstadt,255461952
-06412,Frankfurt am Main,Kreisfreie Stadt,753056,HE,Hessen,Stadt_FFM,https://twitter.com/Stadt_FFM,Frankfurt am Main,,211179,877,20658,"Frankfurt am Main, Germany",50254771
-06413,Offenbach am Main,Kreisfreie Stadt,128744,HE,Hessen,Stadt_OF,https://twitter.com/Stadt_OF,Stadt Offenbach,,2374,163,2530,"Offenbach am Main, Deutschland",4868735543
-06414,Wiesbaden,Kreisfreie Stadt,278342,HE,Hessen,Stadt_Wiesbaden,https://twitter.com/Stadt_Wiesbaden,Stadt Wiesbaden,,7809,132,7644,Wiesbaden / Deutschland,88045348
+06411,Darmstadt,Kreisfreie Stadt,159207,HE,Hessen,Stadt_Darmstadt,https://twitter.com/Stadt_Darmstadt,Stadt Darmstadt,,6482,318,4432,Wissenschaftsstadt Darmstadt,255461952
+06412,Frankfurt am Main,Kreisfreie Stadt,753056,HE,Hessen,Stadt_FFM,https://twitter.com/Stadt_FFM,Frankfurt am Main,,213010,870,20921,"Frankfurt am Main, Germany",50254771
+06413,Offenbach am Main,Kreisfreie Stadt,128744,HE,Hessen,Stadt_OF,https://twitter.com/Stadt_OF,Stadt Offenbach,,2519,161,2641,"Offenbach am Main, Deutschland",4868735543
+06414,Wiesbaden,Kreisfreie Stadt,278342,HE,Hessen,Stadt_Wiesbaden,https://twitter.com/Stadt_Wiesbaden,Stadt Wiesbaden,,8030,132,7907,Wiesbaden / Deutschland,88045348
 06431,Bergstraße,Landkreis,269694,HE,Hessen,-,,,,,,,,
 06432,Darmstadt-Dieburg,Landkreis,297399,HE,Hessen,-,,,,,,,,
 06433,Groß-Gerau,Landkreis,274526,HE,Hessen,-,,,,,,,,
 06434,Hochtaunuskreis,Landkreis,236564,HE,Hessen,-,,,,,,,,
-06435,Main-Kinzig-Kreis,Landkreis,418950,HE,Hessen,MainKinzigKreis,https://twitter.com/MainKinzigKreis,Main-Kinzig-Kreis,,1718,1,857,Gelnhausen,465643775
+06435,Main-Kinzig-Kreis,Landkreis,418950,HE,Hessen,MainKinzigKreis,https://twitter.com/MainKinzigKreis,Main-Kinzig-Kreis,,1818,1,859,Gelnhausen,465643775
 06436,Main-Taunus-Kreis,Landkreis,237735,HE,Hessen,-,,,,,,,,
 06437,Odenwaldkreis,Landkreis,96798,HE,Hessen,?,,,,,,,,
 06438,Offenbach,Landkreis,354092,HE,Hessen,-,,,,,,,,
@@ -134,7 +134,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 06533,Limburg-Weilburg,Landkreis,172083,HE,Hessen,?,,,,,,,,
 06534,Marburg-Biedenkopf,Landkreis,246648,HE,Hessen,-,,,,,,,,
 06535,Vogelsbergkreis,Landkreis,105878,HE,Hessen,?,,,,,,,,
-06611,Kassel,Kreisfreie Stadt,201585,HE,Hessen,StadtKassel,https://twitter.com/StadtKassel,Stadt Kassel,,8940,1000,12566,"Kassel, Deutschland",24156207
+06611,Kassel,Kreisfreie Stadt,201585,HE,Hessen,StadtKassel,https://twitter.com/StadtKassel,Stadt Kassel,,9157,986,12637,"Kassel, Deutschland",24156207
 06631,Fulda,Landkreis,222584,HE,Hessen,?,,,,,,,,
 06632,Hersfeld-Rotenburg,Landkreis,120829,HE,Hessen,?,,,,,,,,
 06633,Kassel,Landkreis,236633,HE,Hessen,?,,,,,,,,
@@ -152,19 +152,19 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 07140,Rhein-Hunsrück-Kreis,Landkreis,102937,RP,Rheinland-Pfalz,?,,,,,,,,
 07141,Rhein-Lahn-Kreis,Landkreis,122308,RP,Rheinland-Pfalz,?,,,,,,,,
 07143,Westerwaldkreis,Landkreis,201597,RP,Rheinland-Pfalz,?,,,,,,,,
-07211,Trier,Kreisfreie Stadt,110636,RP,Rheinland-Pfalz,Stadt_Trier,https://twitter.com/Stadt_Trier,stadt_trier,,3905,736,3793,"Trier, Deutschland",455843411
+07211,Trier,Kreisfreie Stadt,110636,RP,Rheinland-Pfalz,Stadt_Trier,https://twitter.com/Stadt_Trier,stadt_trier,,5449,753,4312,"Trier, Deutschland",455843411
 07231,Bernkastel-Wittlich,Landkreis,112262,RP,Rheinland-Pfalz,?,,,,,,,,
 07232,Eifelkreis Bitburg-Prüm,Landkreis,98561,RP,Rheinland-Pfalz,?,,,,,,,,
 07233,Vulkaneifel,Landkreis,60603,RP,Rheinland-Pfalz,?,,,,,,,,
 07235,Trier-Saarburg,Landkreis,148945,RP,Rheinland-Pfalz,?,,,,,,,,
-07311,Frankenthal (Pfalz),Kreisfreie Stadt,48561,RP,Rheinland-Pfalz,Stadt_FT,https://twitter.com/Stadt_FT,frankenthal_pfalz,,66,28,35,,1098197515877392384
-07312,Kaiserslautern,Kreisfreie Stadt,99845,RP,Rheinland-Pfalz,StadtKL,https://twitter.com/StadtKL,Stadt Kaiserslautern,,2177,39,4358,Kaiserslautern,202117639
+07311,Frankenthal (Pfalz),Kreisfreie Stadt,48561,RP,Rheinland-Pfalz,Stadt_FT,https://twitter.com/Stadt_FT,frankenthal_pfalz,,100,28,39,,1098197515877392384
+07312,Kaiserslautern,Kreisfreie Stadt,99845,RP,Rheinland-Pfalz,StadtKL,https://twitter.com/StadtKL,Stadt Kaiserslautern,,2256,39,4370,Kaiserslautern,202117639
 07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,-,,,,,,,,
-07314,Ludwigshafen am Rhein,Kreisfreie Stadt,171061,RP,Rheinland-Pfalz,ludwigshafen_de,https://twitter.com/ludwigshafen_de,Stadt Ludwigshafen,,3804,63,4056,,85328923
+07314,Ludwigshafen am Rhein,Kreisfreie Stadt,171061,RP,Rheinland-Pfalz,ludwigshafen_de,https://twitter.com/ludwigshafen_de,Stadt Ludwigshafen,,3923,63,4113,,85328923
 07315,Mainz,Kreisfreie Stadt,217118,RP,Rheinland-Pfalz,stadtmainz,https://twitter.com/stadtmainz,Stadt Mainz,,64,0,0,,88048821
-07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,Neustadt_Wstr,https://twitter.com/Neustadt_Wstr,Neustadt Weinstraße,,890,262,2018,Neustadt an der Weinstraße,3096988881
-07317,Pirmasens,Kreisfreie Stadt,40403,RP,Rheinland-Pfalz,stadtpirmasens,https://twitter.com/stadtpirmasens,Pirmasens,,648,161,3122,Pirmasens,123565708
-07318,Speyer,Kreisfreie Stadt,50378,RP,Rheinland-Pfalz,Speyer_Stadt,https://twitter.com/Speyer_Stadt,Stadt Speyer,,1214,3,1945,Speyer,271836199
+07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,Neustadt_Wstr,https://twitter.com/Neustadt_Wstr,Neustadt Weinstraße,,926,262,2030,Neustadt an der Weinstraße,3096988881
+07317,Pirmasens,Kreisfreie Stadt,40403,RP,Rheinland-Pfalz,stadtpirmasens,https://twitter.com/stadtpirmasens,Pirmasens,,668,161,3201,Pirmasens,123565708
+07318,Speyer,Kreisfreie Stadt,50378,RP,Rheinland-Pfalz,Speyer_Stadt,https://twitter.com/Speyer_Stadt,Stadt Speyer,,1233,3,1945,Speyer,271836199
 07319,Worms,Kreisfreie Stadt,83330,RP,Rheinland-Pfalz,nibelungenstadt,https://twitter.com/nibelungenstadt,@nibelungenstadt,,37,27,0,"Worms, Deutschland",913031184610971650
 07320,Zweibrücken,Kreisfreie Stadt,34209,RP,Rheinland-Pfalz,-,,,,,,,,
 07331,Alzey-Worms,Landkreis,129244,RP,Rheinland-Pfalz,?,,,,,,,,
@@ -177,35 +177,35 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 07338,Rhein-Pfalz-Kreis,Landkreis,154201,RP,Rheinland-Pfalz,?,,,,,,,,
 07339,Mainz-Bingen,Landkreis,210889,RP,Rheinland-Pfalz,-,,,,,,,,
 07340,Südwestpfalz,Landkreis,95113,RP,Rheinland-Pfalz,?,,,,,,,,
-08111,Stuttgart,Stadtkreis,634830,BW,Baden-Württemberg,stuttgart_stadt,https://twitter.com/stuttgart_stadt,Stadt Stuttgart,,26645,218,9805,Stuttgart,127505577
+08111,Stuttgart,Stadtkreis,634830,BW,Baden-Württemberg,stuttgart_stadt,https://twitter.com/stuttgart_stadt,Stadt Stuttgart,,28076,217,9939,Stuttgart,127505577
 08115,Böblingen,Landkreis,391640,BW,Baden-Württemberg,-,,,,,,,,
-08116,Esslingen,Landkreis,533859,BW,Baden-Württemberg,LandkreisES,https://twitter.com/LandkreisES,Landkreis Esslingen,,58,37,0,Landkreis Esslingen,1106594225649537026
+08116,Esslingen,Landkreis,533859,BW,Baden-Württemberg,LandkreisES,https://twitter.com/LandkreisES,Landkreis Esslingen,,66,37,0,Landkreis Esslingen,1106594225649537026
 08117,Göppingen,Landkreis,257253,BW,Baden-Württemberg,-,,,,,,,,
 08118,Ludwigsburg,Landkreis,543984,BW,Baden-Württemberg,-,,,,,,,,
 08119,Rems-Murr-Kreis,Landkreis,426158,BW,Baden-Württemberg,-,,,,,,,,
-08121,Heilbronn,Stadtkreis,125960,BW,Baden-Württemberg,heilbronn_de,https://twitter.com/heilbronn_de,Stadt Heilbronn,,3368,48,3437,"Heilbronn, Germany",132545363
+08121,Heilbronn,Stadtkreis,125960,BW,Baden-Württemberg,heilbronn_de,https://twitter.com/heilbronn_de,Stadt Heilbronn,,3460,48,3482,"Heilbronn, Germany",132545363
 08125,Heilbronn,Landkreis,343068,BW,Baden-Württemberg,-,,,,,,,,
 08126,Hohenlohekreis,Landkreis,112010,BW,Baden-Württemberg,?,,,,,,,,
 08127,Schwäbisch Hall,Landkreis,195861,BW,Baden-Württemberg,-,,,,,,,,
 08128,Main-Tauber-Kreis,Landkreis,132321,BW,Baden-Württemberg,?,,,,,,,,
 08135,Heidenheim,Landkreis,132472,BW,Baden-Württemberg,?,,,,,,,,
-08136,Ostalbkreis,Landkreis,314002,BW,Baden-Württemberg,LRA_Ostalbkreis,https://twitter.com/LRA_Ostalbkreis,Ostalbkreis,,1056,49,5000,Aalen,121401195
-08211,Baden-Baden,Stadtkreis,55123,BW,Baden-Württemberg,StadtBadenBaden,https://twitter.com/StadtBadenBaden,Stadt Baden-Baden,,929,83,816,"Baden-Baden, Deutschland",218535877
-08212,Karlsruhe,Stadtkreis,313092,BW,Baden-Württemberg,Stadt_Karlsruhe,https://twitter.com/Stadt_Karlsruhe,Stadt Karlsruhe,,9243,10,5916,Karlsruhe,191947020
+08136,Ostalbkreis,Landkreis,314002,BW,Baden-Württemberg,LRA_Ostalbkreis,https://twitter.com/LRA_Ostalbkreis,Ostalbkreis,,1101,50,5060,Aalen,121401195
+08211,Baden-Baden,Stadtkreis,55123,BW,Baden-Württemberg,StadtBadenBaden,https://twitter.com/StadtBadenBaden,Stadt Baden-Baden,,948,83,833,"Baden-Baden, Deutschland",218535877
+08212,Karlsruhe,Stadtkreis,313092,BW,Baden-Württemberg,Stadt_Karlsruhe,https://twitter.com/Stadt_Karlsruhe,Stadt Karlsruhe,,9521,10,6022,Karlsruhe,191947020
 08215,Karlsruhe,Landkreis,444232,BW,Baden-Württemberg,-,,,,,,,,
 08216,Rastatt,Landkreis,231018,BW,Baden-Württemberg,?,,,,,,,,
-08221,Heidelberg,Stadtkreis,160355,BW,Baden-Württemberg,heidelberg_de,https://twitter.com/heidelberg_de,Stadt Heidelberg,,10552,142,11496,,183171384
-08222,Mannheim,Stadtkreis,309370,BW,Baden-Württemberg,__Mannheim,https://twitter.com/__Mannheim,Stadt Mannheim,,1483,49,129,"Mannheim, Germany",107733816
+08221,Heidelberg,Stadtkreis,160355,BW,Baden-Württemberg,heidelberg_de,https://twitter.com/heidelberg_de,Stadt Heidelberg,,10795,146,11755,,183171384
+08222,Mannheim,Stadtkreis,309370,BW,Baden-Württemberg,__Mannheim,https://twitter.com/__Mannheim,Stadt Mannheim,,1502,49,129,"Mannheim, Germany",107733816
 08225,Neckar-Odenwald-Kreis,Landkreis,143535,BW,Baden-Württemberg,?,,,,,,,,
-08226,Rhein-Neckar-Kreis,Landkreis,547625,BW,Baden-Württemberg,presse_rnk,https://twitter.com/presse_rnk,Rhein-Neckar-Kreis,,4320,172,4816,"Heidelberg, Deutschland",204325824
-08231,Pforzheim,Stadtkreis,125542,BW,Baden-Württemberg,stadt_pforzheim,https://twitter.com/stadt_pforzheim,Stadt Pforzheim,,2716,1083,7336,,143092197
+08226,Rhein-Neckar-Kreis,Landkreis,547625,BW,Baden-Württemberg,presse_rnk,https://twitter.com/presse_rnk,Rhein-Neckar-Kreis,,4488,173,4893,"Heidelberg, Deutschland",204325824
+08231,Pforzheim,Stadtkreis,125542,BW,Baden-Württemberg,stadt_pforzheim,https://twitter.com/stadt_pforzheim,Stadt Pforzheim,,2785,1081,7700,,143092197
 08235,Calw,Landkreis,158397,BW,Baden-Württemberg,?,,,,,,,,
 08236,Enzkreis,Landkreis,198905,BW,Baden-Württemberg,?,,,,,,,,
 08237,Freudenstadt,Landkreis,117935,BW,Baden-Württemberg,?,,,,,,,,
-08311,Freiburg im Breisgau,Stadtkreis,230241,BW,Baden-Württemberg,freiburg,https://twitter.com/freiburg,Freiburg im Breisgau,,13892,1361,6705,Freiburg im Breisgau,14585528
-08315,Breisgau-Hochschwarzwald,Landkreis,262795,BW,Baden-Württemberg,Landkreis_BH,https://twitter.com/Landkreis_BH,Landkreis Breisgau-Hochschwarzwald,,298,36,275,"Baden-Württemberg, Germany",413110579
+08311,Freiburg im Breisgau,Stadtkreis,230241,BW,Baden-Württemberg,freiburg,https://twitter.com/freiburg,Freiburg im Breisgau,,14161,1357,6816,Freiburg im Breisgau,14585528
+08315,Breisgau-Hochschwarzwald,Landkreis,262795,BW,Baden-Württemberg,Landkreis_BH,https://twitter.com/Landkreis_BH,Landkreis Breisgau-Hochschwarzwald,,507,36,336,"Baden-Württemberg, Germany",413110579
 08316,Emmendingen,Landkreis,165383,BW,Baden-Württemberg,?,,,,,,,,
-08317,Ortenaukreis,Landkreis,429479,BW,Baden-Württemberg,ortenaukreis,https://twitter.com/ortenaukreis,Ortenaukreis,,1758,238,2485,"Badstr. 20, Offenburg, Germany",297881483
+08317,Ortenaukreis,Landkreis,429479,BW,Baden-Württemberg,ortenaukreis,https://twitter.com/ortenaukreis,Ortenaukreis,,1811,237,2493,"Badstr. 20, Offenburg, Germany",297881483
 08325,Rottweil,Landkreis,139455,BW,Baden-Württemberg,?,,,,,,,,
 08326,Schwarzwald-Baar-Kreis,Landkreis,212381,BW,Baden-Württemberg,-,,,,,,,,
 08327,Tuttlingen,Landkreis,140152,BW,Baden-Württemberg,?,,,,,,,,
@@ -215,15 +215,15 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 08415,Reutlingen,Landkreis,286748,BW,Baden-Württemberg,-,,,,,,,,
 08416,Tübingen,Landkreis,227331,BW,Baden-Württemberg,?,,,,,,,,
 08417,Zollernalbkreis,Landkreis,188935,BW,Baden-Württemberg,?,,,,,,,,
-08421,Ulm,Stadtkreis,126329,BW,Baden-Württemberg,ulm_donau,https://twitter.com/ulm_donau,Stadt Ulm,,4476,202,2469,Ulm,943029504
+08421,Ulm,Stadtkreis,126329,BW,Baden-Württemberg,ulm_donau,https://twitter.com/ulm_donau,Stadt Ulm,,4572,204,2546,Ulm,943029504
 08425,Alb-Donau-Kreis,Landkreis,196047,BW,Baden-Württemberg,-,,,,,,,,
 08426,Biberach,Landkreis,199742,BW,Baden-Württemberg,?,,,,,,,,
 08435,Bodenseekreis,Landkreis,216227,BW,Baden-Württemberg,?,,,,,,,,
 08436,Ravensburg,Landkreis,284285,BW,Baden-Württemberg,-,,,,,,,,
 08437,Sigmaringen,Landkreis,130873,BW,Baden-Württemberg,?,,,,,,,,
-09161,Ingolstadt,Kreisfreie Stadt,136981,BY,Bayern,Ingolstadt_IN,https://twitter.com/Ingolstadt_IN,Stadt Ingolstadt,,3836,395,3549,Ingolstadt,105115149
-09162,München,Kreisfreie Stadt,1471508,BY,Bayern,muenchen,https://twitter.com/muenchen,München,,255300,47,13725,"Munich, Bavaria, Germany",17229628
-09163,Rosenheim,Kreisfreie Stadt,63324,BY,Bayern,StadtRosenheim,https://twitter.com/StadtRosenheim,Stadt Rosenheim,,66,7,36,Rosenheim,877857673441574912
+09161,Ingolstadt,Kreisfreie Stadt,136981,BY,Bayern,Ingolstadt_IN,https://twitter.com/Ingolstadt_IN,Stadt Ingolstadt,,3915,395,3574,Ingolstadt,105115149
+09162,München,Kreisfreie Stadt,1471508,BY,Bayern,muenchen,https://twitter.com/muenchen,München,,259850,47,13772,"Munich, Bavaria, Germany",17229628
+09163,Rosenheim,Kreisfreie Stadt,63324,BY,Bayern,StadtRosenheim,https://twitter.com/StadtRosenheim,Stadt Rosenheim,,119,8,45,Rosenheim,877857673441574912
 09171,Altötting,Landkreis,111210,BY,Bayern,?,,,,,,,,
 09172,Berchtesgadener Land,Landkreis,105722,BY,Bayern,?,,,,,,,,
 09173,Bad Tölz-Wolfratshausen,Landkreis,127227,BY,Bayern,?,,,,,,,,
@@ -240,12 +240,12 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09184,München,Landkreis,348871,BY,Bayern,-,,,,,,,,
 09185,Neuburg-Schrobenhausen,Landkreis,96680,BY,Bayern,?,,,,,,,,
 09186,Pfaffenhofen a.d. Ilm,Landkreis,127151,BY,Bayern,?,,,,,,,,
-09187,Rosenheim,Landkreis,260983,BY,Bayern,Kreis_Rosenheim,https://twitter.com/Kreis_Rosenheim,Kreis_Rosenheim,,2312,1711,2803,Rosenheim,221026224
+09187,Rosenheim,Landkreis,260983,BY,Bayern,Kreis_Rosenheim,https://twitter.com/Kreis_Rosenheim,Kreis_Rosenheim,,2386,1747,2823,Rosenheim,221026224
 09188,Starnberg,Landkreis,136092,BY,Bayern,?,,,,,,,,
 09189,Traunstein,Landkreis,177089,BY,Bayern,?,,,,,,,,
 09190,Weilheim-Schongau,Landkreis,135348,BY,Bayern,?,,,,,,,,
-09261,Landshut,Kreisfreie Stadt,72404,BY,Bayern,stadtlandshut,https://twitter.com/stadtlandshut,Stadt Landshut,,14,9,0,,139627404
-09262,Passau,Kreisfreie Stadt,52469,BY,Bayern,Stadt_Passau,https://twitter.com/Stadt_Passau,Stadt_Passau,,2602,7,3603,Passau,517291643
+09261,Landshut,Kreisfreie Stadt,72404,BY,Bayern,stadtlandshut,https://twitter.com/stadtlandshut,Stadt Landshut,,13,9,0,,139627404
+09262,Passau,Kreisfreie Stadt,52469,BY,Bayern,Stadt_Passau,https://twitter.com/Stadt_Passau,Stadt_Passau,,2728,7,3699,Passau,517291643
 09263,Straubing,Kreisfreie Stadt,47794,BY,Bayern,-,,,,,,,,
 09271,Deggendorf,Landkreis,119326,BY,Bayern,?,,,,,,,,
 09272,Freyung-Grafenau,Landkreis,78355,BY,Bayern,?,,,,,,,,
@@ -256,9 +256,9 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09277,Rottal-Inn,Landkreis,120659,BY,Bayern,?,,,,,,,,
 09278,Straubing-Bogen,Landkreis,100649,BY,Bayern,?,,,,,,,,
 09279,Dingolfing-Landau,Landkreis,96217,BY,Bayern,?,,,,,,,,
-09361,Amberg,Kreisfreie Stadt,41970,BY,Bayern,Amberg_Stadt,https://twitter.com/Amberg_Stadt,Stadt Amberg,,17,0,0,,135786946
-09362,Regensburg,Kreisfreie Stadt,152610,BY,Bayern,stadtregensburg,https://twitter.com/stadtregensburg,Stadt Regensburg,,5929,39,9241,"Bavaria, Germany",18163152
-09363,Weiden i.d. OPf.,Kreisfreie Stadt,42520,BY,Bayern,Weiden_Pfalz,https://twitter.com/Weiden_Pfalz,Weiden (Oberpfalz),,117,0,512,Weiden (Oberpfalz),80861801
+09361,Amberg,Kreisfreie Stadt,41970,BY,Bayern,Amberg_Stadt,https://twitter.com/Amberg_Stadt,Stadt Amberg,,36,6,6,"Marktplatz 11, 92224 Amberg",135786946
+09362,Regensburg,Kreisfreie Stadt,152610,BY,Bayern,stadtregensburg,https://twitter.com/stadtregensburg,Stadt Regensburg,,6097,41,9410,"Bavaria, Germany",18163152
+09363,Weiden i.d. OPf.,Kreisfreie Stadt,42520,BY,Bayern,Weiden_Pfalz,https://twitter.com/Weiden_Pfalz,Weiden (Oberpfalz),,116,0,512,Weiden (Oberpfalz),80861801
 09371,Amberg-Sulzbach,Landkreis,103109,BY,Bayern,?,,,,,,,,
 09372,Cham,Landkreis,127882,BY,Bayern,?,,,,,,,,
 09373,Neumarkt i.d. OPf.,Landkreis,133561,BY,Bayern,?,,,,,,,,
@@ -266,10 +266,10 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09375,Regensburg,Landkreis,193572,BY,Bayern,?,,,,,,,,
 09376,Schwandorf,Landkreis,147189,BY,Bayern,?,,,,,,,,
 09377,Tirschenreuth,Landkreis,72504,BY,Bayern,?,,,,,,,,
-09461,Bamberg,Kreisfreie Stadt,77592,BY,Bayern,Bamberg_de,https://twitter.com/Bamberg_de,Stadt Bamberg,,5493,2620,6867,"Bamberg, Germany",43140176
-09462,Bayreuth,Kreisfreie Stadt,74657,BY,Bayern,bayreuth_de,https://twitter.com/bayreuth_de,Stadt Bayreuth,,2084,27,9448,"Bayreuth, Germany",86082043
-09463,Coburg,Kreisfreie Stadt,41249,BY,Bayern,coburg,https://twitter.com/coburg,Stadt Coburg,,76,21,5,"Coburg, Deutschland",148708182
-09464,Hof,Kreisfreie Stadt,45930,BY,Bayern,StadtHof1,https://twitter.com/StadtHof1,Stadt Hof,,871,414,9200,"Klosterstraße 1, 95028 Hof",701471407
+09461,Bamberg,Kreisfreie Stadt,77592,BY,Bayern,Bamberg_de,https://twitter.com/Bamberg_de,Stadt Bamberg,,5606,2611,6874,"Bamberg, Germany",43140176
+09462,Bayreuth,Kreisfreie Stadt,74657,BY,Bayern,bayreuth_de,https://twitter.com/bayreuth_de,Stadt Bayreuth,,2138,27,9556,"Bayreuth, Germany",86082043
+09463,Coburg,Kreisfreie Stadt,41249,BY,Bayern,coburg,https://twitter.com/coburg,Stadt Coburg,,84,21,5,"Coburg, Deutschland",148708182
+09464,Hof,Kreisfreie Stadt,45930,BY,Bayern,StadtHof1,https://twitter.com/StadtHof1,Stadt Hof,,886,413,9201,"Klosterstraße 1, 95028 Hof",701471407
 09471,Bamberg,Landkreis,147086,BY,Bayern,?,,,,,,,,
 09472,Bayreuth,Landkreis,103656,BY,Bayern,?,,,,,,,,
 09473,Coburg,Landkreis,86906,BY,Bayern,?,,,,,,,,
@@ -279,21 +279,21 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09477,Kulmbach,Landkreis,71845,BY,Bayern,?,,,,,,,,
 09478,Lichtenfels,Landkreis,66838,BY,Bayern,?,,,,,,,,
 09479,Wunsiedel i. Fichtelgebirge,Landkreis,73178,BY,Bayern,?,,,,,,,,
-09561,Ansbach,Kreisfreie Stadt,41847,BY,Bayern,StadtAnsbach,https://twitter.com/StadtAnsbach,Stadt Ansbach,,169,9,1,"Ansbach, Mfr.",306179803
-09562,Erlangen,Kreisfreie Stadt,111962,BY,Bayern,erlangen_de,https://twitter.com/erlangen_de,Stadt Erlangen,,7425,1217,24551,Rathaus Erlangen,16129782
-09563,Fürth,Kreisfreie Stadt,127748,BY,Bayern,stadtfuerth,https://twitter.com/stadtfuerth,Stadt Fürth ☘,,1411,72,697,"Fürth, Deutschland",1111285413447155718
-09564,Nürnberg,Kreisfreie Stadt,518365,BY,Bayern,nuernberg_de,https://twitter.com/nuernberg_de,Stadt Nürnberg,,90155,875,11976,"Nürnberg / Nuremberg, Germany",22136838
-09565,Schwabach,Kreisfreie Stadt,40792,BY,Bayern,stadt_schwabach,https://twitter.com/stadt_schwabach,Stadt Schwabach,,981,136,1527,Schwabach,76620590
+09561,Ansbach,Kreisfreie Stadt,41847,BY,Bayern,StadtAnsbach,https://twitter.com/StadtAnsbach,Stadt Ansbach,,174,8,1,"Ansbach, Mfr.",306179803
+09562,Erlangen,Kreisfreie Stadt,111962,BY,Bayern,erlangen_de,https://twitter.com/erlangen_de,Stadt Erlangen,,7678,1216,24644,Rathaus Erlangen,16129782
+09563,Fürth,Kreisfreie Stadt,127748,BY,Bayern,stadtfuerth,https://twitter.com/stadtfuerth,Stadt Fürth ☘,,1694,74,796,"Fürth, Deutschland",1111285413447155718
+09564,Nürnberg,Kreisfreie Stadt,518365,BY,Bayern,nuernberg_de,https://twitter.com/nuernberg_de,Stadt Nürnberg,,91530,877,12335,"Nürnberg / Nuremberg, Germany",22136838
+09565,Schwabach,Kreisfreie Stadt,40792,BY,Bayern,stadt_schwabach,https://twitter.com/stadt_schwabach,Stadt Schwabach,,1050,140,1566,Schwabach,76620590
 09571,Ansbach,Landkreis,183949,BY,Bayern,?,,,,,,,,
-09572,Erlangen-Höchstadt,Landkreis,136271,BY,Bayern,LRA_ERH,https://twitter.com/LRA_ERH,Landkreis Erlangen-Höchstadt,,226,113,407,"Erlangen, Deutschland",897465256582230018
-09573,Fürth,Landkreis,117387,BY,Bayern,landkreisfuerth,https://twitter.com/landkreisfuerth,Landkreis Fürth,,24,2,0,,281078848
+09572,Erlangen-Höchstadt,Landkreis,136271,BY,Bayern,LRA_ERH,https://twitter.com/LRA_ERH,Landkreis Erlangen-Höchstadt,,253,116,440,"Erlangen, Deutschland",897465256582230018
+09573,Fürth,Landkreis,117387,BY,Bayern,landkreisfuerth,https://twitter.com/landkreisfuerth,Landkreis Fürth,,29,2,0,,281078848
 09574,Nürnberger Land,Landkreis,170365,BY,Bayern,?,,,,,,,,
 09575,Neustadt a.d. Aisch-Bad Windsheim,Landkreis,100364,BY,Bayern,?,,,,,,,,
 09576,Roth,Landkreis,126958,BY,Bayern,?,,,,,,,,
 09577,Weißenburg-Gunzenhausen,Landkreis,94393,BY,Bayern,?,,,,,,,,
-09661,Aschaffenburg,Kreisfreie Stadt,70527,BY,Bayern,StadtAB,https://twitter.com/StadtAB,Stadt Aschaffenburg,,2148,372,4390,Stadt Aschaffenburg,2542991138
-09662,Schweinfurt,Kreisfreie Stadt,54032,BY,Bayern,stadtsw,https://twitter.com/stadtsw,Stadt Schweinfurt,,20,14,0,,2725889582
-09663,Würzburg,Kreisfreie Stadt,127880,BY,Bayern,stadtwuerzburg,https://twitter.com/stadtwuerzburg,stadtwuerzburg,,14,1,0,Wuerzburg/Germany,49635902
+09661,Aschaffenburg,Kreisfreie Stadt,70527,BY,Bayern,StadtAB,https://twitter.com/StadtAB,Stadt Aschaffenburg,,2238,376,4532,Stadt Aschaffenburg,2542991138
+09662,Schweinfurt,Kreisfreie Stadt,54032,BY,Bayern,stadtsw,https://twitter.com/stadtsw,Stadt Schweinfurt,,21,14,0,,2725889582
+09663,Würzburg,Kreisfreie Stadt,127880,BY,Bayern,stadtwuerzburg,https://twitter.com/stadtwuerzburg,stadtwuerzburg,,15,1,0,Wuerzburg/Germany,49635902
 09671,Aschaffenburg,Landkreis,174208,BY,Bayern,?,,,,,,,,
 09672,Bad Kissingen,Landkreis,103218,BY,Bayern,?,,,,,,,,
 09673,Rhön-Grabfeld,Landkreis,79690,BY,Bayern,?,,,,,,,,
@@ -303,10 +303,10 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09677,Main-Spessart,Landkreis,126365,BY,Bayern,?,,,,,,,,
 09678,Schweinfurt,Landkreis,115106,BY,Bayern,?,,,,,,,,
 09679,Würzburg,Landkreis,161834,BY,Bayern,?,,,,,,,,
-09761,Augsburg,Kreisfreie Stadt,295135,BY,Bayern,stadtaugsburg,https://twitter.com/stadtaugsburg,Stadt Augsburg,,6173,372,3463,Augsburg,1303239385
+09761,Augsburg,Kreisfreie Stadt,295135,BY,Bayern,stadtaugsburg,https://twitter.com/stadtaugsburg,Stadt Augsburg,,6823,373,3829,Augsburg,1303239385
 09762,Kaufbeuren,Kreisfreie Stadt,43893,BY,Bayern,-,,,,,,,,
 09763,Kempten (Allgäu),Kreisfreie Stadt,68907,BY,Bayern,-,,,,,,,,
-09764,Memmingen,Kreisfreie Stadt,43837,BY,Bayern,StadtMM,https://twitter.com/StadtMM,Stadt Memmingen,,404,0,226,Memmingen,145948815
+09764,Memmingen,Kreisfreie Stadt,43837,BY,Bayern,StadtMM,https://twitter.com/StadtMM,Stadt Memmingen,,406,0,226,Memmingen,145948815
 09771,Aichach-Friedberg,Landkreis,133596,BY,Bayern,?,,,,,,,,
 09772,Augsburg,Landkreis,251534,BY,Bayern,?,,,,,,,,
 09773,Dillingen a.d. Donau,Landkreis,96021,BY,Bayern,?,,,,,,,,
@@ -317,27 +317,27 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 09778,Unterallgäu,Landkreis,144041,BY,Bayern,?,,,,,,,,
 09779,Donau-Ries,Landkreis,133496,BY,Bayern,?,,,,,,,,
 09780,Oberallgäu,Landkreis,155362,BY,Bayern,?,,,,,,,,
-10041,Regionalverband Saarbrücken,Landkreis,329708,SL,Saarland,rv_saarbruecken,https://twitter.com/rv_saarbruecken,Regionalverband,,1491,78,451,Saarbrücken,2679538338
+10041,Regionalverband Saarbrücken,Landkreis,329708,SL,Saarland,rv_saarbruecken,https://twitter.com/rv_saarbruecken,Regionalverband,,1598,78,498,Saarbrücken,2679538338
 10042,Merzig-Wadern,Landkreis,103366,SL,Saarland,?,,,,,,,,
 10043,Neunkirchen,Landkreis,132206,SL,Saarland,?,,,,,,,,
 10044,Saarlouis,Landkreis,195201,SL,Saarland,?,,,,,,,,
 10045,Saarpfalz-Kreis,Landkreis,142631,SL,Saarland,?,,,,,,,,
 10046,St. Wendel,Landkreis,87397,SL,Saarland,?,,,,,,,,
-11000,Berlin,Hauptstadt,3644800,BE,Berlin,berlin_de_news,https://twitter.com/berlin_de_news,Berlin aktuell,,112492,14,147548,Berlin,18760371
-11001,Berlin Mitte,Bezirk,384172,BE,Berlin,BA_Mitte_Berlin,https://twitter.com/BA_Mitte_Berlin,Bezirksamt Mitte,,3457,206,7056,"Berlin, Deutschland",2931888743
-11002,Berlin Friedrichshain-Kreuzberg,Bezirk,289762,BE,Berlin,BA_Xhain,https://twitter.com/BA_Xhain,Bezirksamt Friedrichshain-Kreuzberg,,3289,43,2057,"Friedrichshain, Berlin",3307052506
-11003,Berlin Pankow,Bezirk,407765,BE,Berlin,BerlinPkow,https://twitter.com/BerlinPkow,Bezirksamt Pankow,,1892,113,1616,Berlin Pankow,2989481133
-11004,Berlin Charlottenburg-Wilmersdorf,Bezirk,342332,BE,Berlin,bacw_berlin,https://twitter.com/bacw_berlin,Bezirksamt Charlottenburg-Wilmersdorf,,673,22,3614,Charlottenburg-Wilmersdorf,3090882917
+11000,Berlin,Hauptstadt,3644800,BE,Berlin,berlin_de_news,https://twitter.com/berlin_de_news,Berlin aktuell,,113595,32,147920,Berlin,18760371
+11001,Berlin Mitte,Bezirk,384172,BE,Berlin,BA_Mitte_Berlin,https://twitter.com/BA_Mitte_Berlin,Bezirksamt Mitte,,3663,205,7232,"Berlin, Deutschland",2931888743
+11002,Berlin Friedrichshain-Kreuzberg,Bezirk,289762,BE,Berlin,BA_Xhain,https://twitter.com/BA_Xhain,Bezirksamt Friedrichshain-Kreuzberg,,3542,44,2160,"Friedrichshain, Berlin",3307052506
+11003,Berlin Pankow,Bezirk,407765,BE,Berlin,BerlinPkow,https://twitter.com/BerlinPkow,Bezirksamt Pankow,,1991,125,1697,Berlin Pankow,2989481133
+11004,Berlin Charlottenburg-Wilmersdorf,Bezirk,342332,BE,Berlin,bacw_berlin,https://twitter.com/bacw_berlin,Bezirksamt Charlottenburg-Wilmersdorf,,730,23,3671,Charlottenburg-Wilmersdorf,3090882917
 11005,Berlin Spandau,Bezirk,243977,BE,Berlin,-,,,,,,,,
-11006,Berlin Steglitz-Zehlendorf,Bezirk,308697,BE,Berlin,basz_berlin,https://twitter.com/basz_berlin,Bezirksamt Steglitz-Zehlendorf,,1820,269,7187,Berlin Steglitz-Zehlendorf,2687278914
-11007,Berlin Tempelhof-Schöneberg,Bezirk,351644,BE,Berlin,BerlinTempSchbg,https://twitter.com/BerlinTempSchbg,BerlinTempSchbg,,1431,128,3406,"Berlin, Deutschland",3256369731
-11008,Berlin Neukölln,Bezirk,329691,BE,Berlin,BerlinNkl,https://twitter.com/BerlinNkl,Bezirksamt Neukölln,,2317,23,1665,Rathaus Neukölln,3091229333
-11009,Berlin Treptow-Köpenick,Bezirk,271153,BE,Berlin,BaBerlinTK,https://twitter.com/BaBerlinTK,BA Treptow-Köpenick,,2322,233,7165,Berlin Treptow-Köpenick,418665298
-11010,Berlin Marzahn-Hellersdorf,Bezirk,268548,BE,Berlin,BezirksamtMaHe,https://twitter.com/BezirksamtMaHe,Bezirksamt Marzahn-Hellersdorf,,270,60,168,"Berlin, Deutschland",1050749203369070594
-11011,Berlin Lichtenberg,Bezirk,291452,BE,Berlin,BaLichtenberg,https://twitter.com/BaLichtenberg,Bezirksamt Libg,,1006,83,2282,"Berlin, Deutschland",3944873896
-11012,Berlin Reinickendorf,Bezirk,265225,BE,Berlin,Bezirksamt_RDF,https://twitter.com/Bezirksamt_RDF,Bezirksamt RDF,,370,2,2806,Berlin Reinickendorf,862926421
-12051,Brandenburg an der Havel,Kreisfreie Stadt,72124,BB,Brandenburg,Stadt_BRB,https://twitter.com/Stadt_BRB,Stadt Brandenburg an der Havel,,972,187,3380,Brandenburg an der Havel,466356765
-12052,Cottbus,Kreisfreie Stadt,100219,BB,Brandenburg,Stadt_Cottbus,https://twitter.com/Stadt_Cottbus,Stadt Cottbus/Chóśebuz,,2613,61,3396,Cottbus,196930112
+11006,Berlin Steglitz-Zehlendorf,Bezirk,308697,BE,Berlin,basz_berlin,https://twitter.com/basz_berlin,Bezirksamt Steglitz-Zehlendorf,,1880,279,7376,Berlin Steglitz-Zehlendorf,2687278914
+11007,Berlin Tempelhof-Schöneberg,Bezirk,351644,BE,Berlin,BerlinTempSchbg,https://twitter.com/BerlinTempSchbg,BerlinTempSchbg,,1493,129,3534,"Berlin, Deutschland",3256369731
+11008,Berlin Neukölln,Bezirk,329691,BE,Berlin,BerlinNkl,https://twitter.com/BerlinNkl,Bezirksamt Neukölln,,2544,23,1757,Rathaus Neukölln,3091229333
+11009,Berlin Treptow-Köpenick,Bezirk,271153,BE,Berlin,BaBerlinTK,https://twitter.com/BaBerlinTK,BA Treptow-Köpenick,,2385,234,7405,Berlin Treptow-Köpenick,418665298
+11010,Berlin Marzahn-Hellersdorf,Bezirk,268548,BE,Berlin,BezirksamtMaHe,https://twitter.com/BezirksamtMaHe,Bezirksamt Marzahn-Hellersdorf,,289,60,168,"Berlin, Deutschland",1050749203369070594
+11011,Berlin Lichtenberg,Bezirk,291452,BE,Berlin,BaLichtenberg,https://twitter.com/BaLichtenberg,Bezirksamt Libg,,1093,85,2476,"Berlin, Deutschland",3944873896
+11012,Berlin Reinickendorf,Bezirk,265225,BE,Berlin,Bezirksamt_RDF,https://twitter.com/Bezirksamt_RDF,Bezirksamt RDF,,386,2,2852,Berlin Reinickendorf,862926421
+12051,Brandenburg an der Havel,Kreisfreie Stadt,72124,BB,Brandenburg,Stadt_BRB,https://twitter.com/Stadt_BRB,Stadt Brandenburg an der Havel,,1016,193,3448,Brandenburg an der Havel,466356765
+12052,Cottbus,Kreisfreie Stadt,100219,BB,Brandenburg,Stadt_Cottbus,https://twitter.com/Stadt_Cottbus,Stadt Cottbus/Chóśebuz,,2729,64,3480,Cottbus,196930112
 12053,Frankfurt (Oder),Kreisfreie Stadt,57873,BB,Brandenburg,-,,,,,,,,
 12054,Potsdam,Kreisfreie Stadt,178089,BB,Brandenburg,potsdam_de,https://twitter.com/potsdam_de,Stadt Potsdam,,96,0,0,,88041986
 12060,Barnim,Landkreis,182760,BB,Brandenburg,?,,,,,,,,
@@ -360,23 +360,23 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 13072,Rostock,Landkreis,215113,MV,Mecklenburg-Vorpommern,?,,,,,,,,
 13073,Vorpommern-Rügen,Landkreis,224684,MV,Mecklenburg-Vorpommern,-,,,,,,,,
 13074,Nordwestmecklenburg,Landkreis,156729,MV,Mecklenburg-Vorpommern,?,,,,,,,,
-13075,Vorpommern-Greifswald,Landkreis,236697,MV,Mecklenburg-Vorpommern,KreisVG,https://twitter.com/KreisVG,Landkreis Vorpommern-Greifswald,,199,62,1085,Greifswald,1242149316912873479
-13076,Ludwigslust-Parchim,Landkreis,212618,MV,Mecklenburg-Vorpommern,LKLUP,https://twitter.com/LKLUP,Ludwigslust-Parchim,,694,5,4250,Ludwigslust-Parchim,145623480
-14511,Chemnitz,Kreisfreie Stadt,247237,SN,Sachsen,Stadt_Chemnitz,https://twitter.com/Stadt_Chemnitz,Stadt Chemnitz,,6227,110,4275,Chemnitz,306096622
+13075,Vorpommern-Greifswald,Landkreis,236697,MV,Mecklenburg-Vorpommern,KreisVG,https://twitter.com/KreisVG,Landkreis Vorpommern-Greifswald,,267,72,1354,Greifswald,1242149316912873479
+13076,Ludwigslust-Parchim,Landkreis,212618,MV,Mecklenburg-Vorpommern,LKLUP,https://twitter.com/LKLUP,Ludwigslust-Parchim,,756,7,4314,Ludwigslust-Parchim,145623480
+14511,Chemnitz,Kreisfreie Stadt,247237,SN,Sachsen,Stadt_Chemnitz,https://twitter.com/Stadt_Chemnitz,Stadt Chemnitz,,6853,114,4501,Chemnitz,306096622
 14521,Erzgebirgskreis,Landkreis,337696,SN,Sachsen,-,,,,,,,,
 14522,Mittelsachsen,Landkreis,306185,SN,Sachsen,-,,,,,,,,
 14523,Vogtlandkreis,Landkreis,227796,SN,Sachsen,-,,,,,,,,
 14524,Zwickau,Landkreis,317531,SN,Sachsen,-,,,,,,,,
-14612,Dresden,Kreisfreie Stadt,554649,SN,Sachsen,stadt_dresden,https://twitter.com/stadt_dresden,Stadt Dresden,,10968,123,12276,"Dresden, Germany",348982874
-14625,Bautzen,Landkreis,300880,SN,Sachsen,LandkreisBZ,https://twitter.com/LandkreisBZ,Bautzen - der Landkreis,,508,179,797,"Bautzen, Sachsen",983330564446048256
+14612,Dresden,Kreisfreie Stadt,554649,SN,Sachsen,stadt_dresden,https://twitter.com/stadt_dresden,Stadt Dresden,,11934,123,12523,"Dresden, Germany",348982874
+14625,Bautzen,Landkreis,300880,SN,Sachsen,LandkreisBZ,https://twitter.com/LandkreisBZ,Bautzen - der Landkreis,,618,181,869,"Bautzen, Sachsen",983330564446048256
 14626,Görlitz,Landkreis,254894,SN,Sachsen,-,,,,,,,,
 14627,Meißen,Landkreis,242165,SN,Sachsen,?,,,,,,,,
 14628,Sächsische Schweiz-Osterzgebirge,Landkreis,245611,SN,Sachsen,-,,,,,,,,
-14713,Leipzig,Kreisfreie Stadt,587857,SN,Sachsen,StadtLeipzig,https://twitter.com/StadtLeipzig,Stadt Leipzig,,69902,189,19091,Leipzig,82838096
-14729,Leipzig,Landkreis,257763,SN,Sachsen,KreisLeipzig,https://twitter.com/KreisLeipzig,Landkreis Leipzig,,52,0,4,,793825267168923648
+14713,Leipzig,Kreisfreie Stadt,587857,SN,Sachsen,StadtLeipzig,https://twitter.com/StadtLeipzig,Stadt Leipzig,,72958,189,19585,Leipzig,82838096
+14729,Leipzig,Landkreis,257763,SN,Sachsen,KreisLeipzig,https://twitter.com/KreisLeipzig,Landkreis Leipzig,,79,0,4,,793825267168923648
 14730,Nordsachsen,Landkreis,197673,SN,Sachsen,?,,,,,,,,
-15001,Dessau-Roßlau,Kreisfreie Stadt,81237,ST,Sachsen-Anhalt,Dessau_Rosslau,https://twitter.com/Dessau_Rosslau,Stadt Dessau-Roßlau,,602,67,477,,779294399087931394
-15002,Halle (Saale),Kreisfreie Stadt,239257,ST,Sachsen-Anhalt,stadt_halle,https://twitter.com/stadt_halle,Stadt Halle (Saale),,6027,4,2382,"Halle, Deutschland",82076977
+15001,Dessau-Roßlau,Kreisfreie Stadt,81237,ST,Sachsen-Anhalt,Dessau_Rosslau,https://twitter.com/Dessau_Rosslau,Stadt Dessau-Roßlau,,618,67,477,,779294399087931394
+15002,Halle (Saale),Kreisfreie Stadt,239257,ST,Sachsen-Anhalt,stadt_halle,https://twitter.com/stadt_halle,Stadt Halle (Saale),,6135,4,2382,"Halle, Deutschland",82076977
 15003,Magdeburg,Kreisfreie Stadt,238697,ST,Sachsen-Anhalt,-,,,,,,,,
 15081,Altmarkkreis Salzwedel,Landkreis,83765,ST,Sachsen-Anhalt,?,,,,,,,,
 15082,Anhalt-Bitterfeld,Landkreis,159854,ST,Sachsen-Anhalt,?,,,,,,,,
@@ -389,11 +389,11 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account,Twitter URL,Twi
 15089,Salzlandkreis,Landkreis,190560,ST,Sachsen-Anhalt,?,,,,,,,,
 15090,Stendal,Landkreis,111982,ST,Sachsen-Anhalt,?,,,,,,,,
 15091,Wittenberg,Landkreis,125840,ST,Sachsen-Anhalt,?,,,,,,,,
-16051,Erfurt,Kreisfreie Stadt,213699,TH,Thüringen,erfurt_de,https://twitter.com/erfurt_de,Stadt Erfurt,,43,0,0,,87288311
-16052,Gera,Kreisfreie Stadt,94152,TH,Thüringen,Stadt_Gera,https://twitter.com/Stadt_Gera,Stadt_Gera,,48,18,0,,2472250392
-16053,Jena,Kreisfreie Stadt,111407,TH,Thüringen,jenalichtstadt,https://twitter.com/jenalichtstadt,Jena - Lichtstadt,,2883,90,2722,Jena,2350376179
+16051,Erfurt,Kreisfreie Stadt,213699,TH,Thüringen,erfurt_de,https://twitter.com/erfurt_de,Stadt Erfurt,,46,0,0,,87288311
+16052,Gera,Kreisfreie Stadt,94152,TH,Thüringen,Stadt_Gera,https://twitter.com/Stadt_Gera,Stadt_Gera,,49,18,0,,2472250392
+16053,Jena,Kreisfreie Stadt,111407,TH,Thüringen,jenalichtstadt,https://twitter.com/jenalichtstadt,Jena - Lichtstadt,,3088,96,3014,Jena,2350376179
 16054,Suhl,Kreisfreie Stadt,34835,TH,Thüringen,-,,,,,,,,
-16055,Weimar,Kreisfreie Stadt,65090,TH,Thüringen,stadtweimar,https://twitter.com/stadtweimar,Stadt Weimar,,2503,188,2790,Weimar,2289489252
+16055,Weimar,Kreisfreie Stadt,65090,TH,Thüringen,stadtweimar,https://twitter.com/stadtweimar,Stadt Weimar,,2656,190,3026,Weimar,2289489252
 16056,Eisenach,Kreisfreie Stadt,42370,TH,Thüringen,-,,,,,,,,
 16061,Eichsfeld,Landkreis,100380,TH,Thüringen,?,,,,,,,,
 16062,Nordhausen,Landkreis,83822,TH,Thüringen,?,,,,,,,,
