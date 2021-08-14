@@ -13,4 +13,6 @@ Done
 TODO
 * Händisch nach weiteren Twitter Accounts von fehlenden Landkreise suchen
 * Periodisch ausführen (Wie ohne Twitter api_key hier zu hinterlegen?)
+
+IDEAS
 * Karte mit Einfärbung entsprechend der Anzahl Tweets
