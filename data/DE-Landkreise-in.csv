@@ -47,7 +47,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 03402,Emden,Kreisfreie Stadt,50195,NI,Niedersachsen,StadtEmden
 03403,Oldenburg (Oldb),Kreisfreie Stadt,168210,NI,Niedersachsen,-
 03404,Osnabrück,Kreisfreie Stadt,164748,NI,Niedersachsen,StadtOsnabrueck
-03405,Wilhelmshaven,Kreisfreie Stadt,76278,NI,Niedersachsen,StadtWHV
+03405,Wilhelmshaven,Kreisfreie Stadt,76278,NI,Niedersachsen,?
 03451,Ammerland,Landkreis,124071,NI,Niedersachsen,?
 03452,Aurich,Landkreis,189848,NI,Niedersachsen,?
 03453,Cloppenburg,Landkreis,169348,NI,Niedersachsen,?
@@ -162,7 +162,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 07313,Landau in der Pfalz,Kreisfreie Stadt,46677,RP,Rheinland-Pfalz,-
 07314,Ludwigshafen am Rhein,Kreisfreie Stadt,171061,RP,Rheinland-Pfalz,ludwigshafen_de
 07315,Mainz,Kreisfreie Stadt,217118,RP,Rheinland-Pfalz,stadtmainz
-07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,Neustadt_Wstr
+07316,Neustadt an der Weinstraße,Kreisfreie Stadt,53148,RP,Rheinland-Pfalz,?
 07317,Pirmasens,Kreisfreie Stadt,40403,RP,Rheinland-Pfalz,stadtpirmasens
 07318,Speyer,Kreisfreie Stadt,50378,RP,Rheinland-Pfalz,Speyer_Stadt
 07319,Worms,Kreisfreie Stadt,83330,RP,Rheinland-Pfalz,nibelungenstadt
@@ -266,7 +266,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 09375,Regensburg,Landkreis,193572,BY,Bayern,?
 09376,Schwandorf,Landkreis,147189,BY,Bayern,?
 09377,Tirschenreuth,Landkreis,72504,BY,Bayern,?
-09461,Bamberg,Kreisfreie Stadt,77592,BY,Bayern,Bamberg_de
+09461,Bamberg,Kreisfreie Stadt,77592,BY,Bayern,?
 09462,Bayreuth,Kreisfreie Stadt,74657,BY,Bayern,bayreuth_de
 09463,Coburg,Kreisfreie Stadt,41249,BY,Bayern,coburg
 09464,Hof,Kreisfreie Stadt,45930,BY,Bayern,StadtHof1
@@ -327,7 +327,7 @@ LK_ID,LK_Name,LK_Type,Population,BL_Code,BL_Name,Twitter Account
 11001,Berlin Mitte,Bezirk,384172,BE,Berlin,BA_Mitte_Berlin
 11002,Berlin Friedrichshain-Kreuzberg,Bezirk,289762,BE,Berlin,BA_Xhain
 11003,Berlin Pankow,Bezirk,407765,BE,Berlin,BerlinPkow
-11004,Berlin Charlottenburg-Wilmersdorf,Bezirk,342332,BE,Berlin,bacw_berlin
+11004,Berlin Charlottenburg-Wilmersdorf,Bezirk,342332,BE,Berlin,bacwberlin
 11005,Berlin Spandau,Bezirk,243977,BE,Berlin,-
 11006,Berlin Steglitz-Zehlendorf,Bezirk,308697,BE,Berlin,basz_berlin
 11007,Berlin Tempelhof-Schöneberg,Bezirk,351644,BE,Berlin,BerlinTempSchbg
