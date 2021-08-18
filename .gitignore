@@ -1,11 +1,6 @@
-.vscode
-cache/
-.~lock.*
-
-# Byte-compiled / optimized / DLL files
+.vscode/
 __pycache__/
-*.py[cod]
-*$py.class
+cache/
 
-# my files
 api-keys.ini
+.~lock.*
