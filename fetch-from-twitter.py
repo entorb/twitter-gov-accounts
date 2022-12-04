@@ -1,10 +1,15 @@
-import os
-import datetime
-import time
+#!/usr/bin/env python3
+"""
+Fetch data from Twitter API.
+"""
 import csv
-import requests  # for read_url_or_cachefile
-from configparser import ConfigParser
+import datetime
 import json
+import os
+import time
+from configparser import ConfigParser
+
+import requests  # for read_url_or_cachefile
 
 # TODO: replace index.html a static page and fill update date via javascript, instead of re-generation the file on each script run.
 
@@ -12,11 +17,13 @@ if not os.path.isdir("cache"):
     os.mkdir("cache")
 
 
-def request_url(url: str, request_type: str = "get", payload: dict = {}) -> dict:
+def request_url(url: str, request_type: str = "get", payload: dict = None) -> dict:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
         "Authorization": "Bearer " + d_config["bearer-token"],
     }
+    if payload is None:
+        payload = {}
     if request_type == "get":
         r = requests.get(url, headers=headers)
     elif request_type == "post":
@@ -31,7 +38,7 @@ def request_url(url: str, request_type: str = "get", payload: dict = {}) -> dict
 def fetch_user_metadata(username: str) -> dict:
     try:
         d = request_url(
-            url=f"https://api.twitter.com/1.1/users/show.json?screen_name={username}"
+            url=f"https://api.twitter.com/1.1/users/show.json?screen_name={username}",
         )
     except (AssertionError) as error:
         d = {}
@@ -42,7 +49,7 @@ def fetch_user_metadata(username: str) -> dict:
 def fetch_user_metadata_from_cache_or_web(username: str) -> dict:
     cache_file = f"cache/{username}.json"
     if check_cache_file_available_and_recent(fname=cache_file):
-        with open(file=cache_file, mode="r", encoding="utf-8") as fh:
+        with open(file=cache_file, encoding="utf-8") as fh:
             d_json = json.load(fh)
     else:
         d_json = fetch_user_metadata(username)
@@ -52,7 +59,9 @@ def fetch_user_metadata_from_cache_or_web(username: str) -> dict:
 
 
 def check_cache_file_available_and_recent(
-    fname: str, max_age: int = 3600, verbose: bool = False
+    fname: str,
+    max_age: int = 3600,
+    verbose: bool = False,
 ) -> bool:
     b_cache_good = True
     if not os.path.exists(fname):
@@ -105,14 +114,13 @@ def check_cache_file_available_and_recent(
 #     return html
 config = ConfigParser(interpolation=None)
 config.read("api-keys.ini", encoding="utf-8")
-d_config = {}
+d_config = {"bearer-token": config.get("API", "bearer-token")}
 # d_config['api-key'] = config.get('API', 'api-key')
 # d_config['api-secret-key'] = config.get('API', 'api-secret-key')
-d_config["bearer-token"] = config.get("API", "bearer-token")
 
 # read input data
 l_landkreise = []
-with open("data/DE-Landkreise-in.csv", mode="r", encoding="utf-8") as fh:
+with open("data/DE-Landkreise-in.csv", encoding="utf-8") as fh:
     csv_reader = csv.DictReader(fh, dialect="excel", delimiter=",")
     for row in csv_reader:
         d = dict(row)
@@ -145,7 +153,7 @@ for d in l_landkreise:
     print(d["Twitter Account"])
     d["Twitter URL"] = f"https://twitter.com/{d['Twitter Account']}"
     d_twitter_user_meta_data = fetch_user_metadata_from_cache_or_web(
-        d["Twitter Account"]
+        d["Twitter Account"],
     )
     if len(d_twitter_user_meta_data) > 0:
         d["Twitter ID"] = d_twitter_user_meta_data["id"]
@@ -160,14 +168,20 @@ for d in l_landkreise:
 
 # Export as JSON (in dir docs for tabulator JS table)
 with open(
-    "docs/DE-Landkreise-out.json", mode="w", encoding="utf-8", newline="\n"
+    "docs/DE-Landkreise-out.json",
+    mode="w",
+    encoding="utf-8",
+    newline="\n",
 ) as fh:
     json.dump(l_landkreise, fh, ensure_ascii=False, sort_keys=True)
 
 # Export as CSV
 with open("data/DE-Landkreise-out.csv", mode="w", encoding="utf-8", newline="\n") as fh:
     csvwriter = csv.DictWriter(
-        fh, delimiter=",", extrasaction="ignore", fieldnames=l_columns
+        fh,
+        delimiter=",",
+        extrasaction="ignore",
+        fieldnames=l_columns,
     )
     csvwriter.writeheader()
     for d in l_landkreise:
@@ -213,5 +227,5 @@ Dies Liste ist noch nicht komplett. Korrekturen und Ergänzungen bitte direkt vi
         promises.push(fetch_table_data());
     </script>
 </body>\n</html>
-"""
+""",
     )
