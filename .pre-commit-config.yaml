@@ -41,8 +41,8 @@ repos:
       - id: name-tests-test
       # - id: no-commit-to-branch
       #   args: [--branch, staging]
-      - id: pretty-format-json
-        args: ["--autofix"]
+      # - id: pretty-format-json
+      #   args: ["--autofix"]
       - id: requirements-txt-fixer
       # - id: sort-simple-yaml
       - id: trailing-whitespace

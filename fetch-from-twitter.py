@@ -54,7 +54,13 @@ def fetch_user_metadata_from_cache_or_web(username: str) -> dict:
     else:
         d_json = fetch_user_metadata(username)
         with open(cache_file, mode="w", encoding="utf-8", newline="\n") as fh:
-            json.dump(d_json, fh, ensure_ascii=False, sort_keys=True)
+            json.dump(
+                d_json,
+                fh,
+                ensure_ascii=False,
+                sort_keys=True,
+                indent=2,
+            )
     return d_json
 
 
@@ -173,7 +179,13 @@ with open(
     encoding="utf-8",
     newline="\n",
 ) as fh:
-    json.dump(l_landkreise, fh, ensure_ascii=False, sort_keys=True)
+    json.dump(
+        l_landkreise,
+        fh,
+        ensure_ascii=False,
+        sort_keys=True,
+        indent=2,
+    )
 
 # Export as CSV
 with open("data/DE-Landkreise-out.csv", mode="w", encoding="utf-8", newline="\n") as fh:
