@@ -7,7 +7,7 @@
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.3.0
+    rev: v4.4.0
     hooks:
       # see https://github.com/pre-commit/pre-commit-hooks
       - id: check-added-large-files
@@ -30,7 +30,7 @@ repos:
       - id: detect-private-key
       # conflict with black below
       # - id: double-quote-string-fixer
-      - id: end-of-file-fixer
+      # - id: end-of-file-fixer
       - id: file-contents-sorter
       - id: fix-byte-order-marker
       - id: fix-encoding-pragma
