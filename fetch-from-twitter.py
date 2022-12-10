@@ -17,17 +17,23 @@ if not os.path.isdir("cache"):
     os.mkdir("cache")
 
 
-def request_url(url: str, request_type: str = "get", payload: dict = None) -> dict:
+def request_url(
+    url: str,
+    request_type: str = "get",
+    payload: dict[str, str] | None = None,
+) -> dict[str, str]:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
         "Authorization": "Bearer " + d_config["bearer-token"],
     }
-    if payload is None:
-        payload = {}
+    payload = payload or {}
     if request_type == "get":
         r = requests.get(url, headers=headers)
     elif request_type == "post":
         r = requests.post(url, headers=headers, data=payload)
+    else:
+        raise ValueError
+        exit()
     # print(f"Status={r.status_code}")
     cont = r.content
     d_json = json.loads(cont.decode("utf-8"))
@@ -35,7 +41,7 @@ def request_url(url: str, request_type: str = "get", payload: dict = None) -> di
     return d_json
 
 
-def fetch_user_metadata(username: str) -> dict:
+def fetch_user_metadata(username: str) -> dict[str, str]:
     try:
         d = request_url(
             url=f"https://api.twitter.com/1.1/users/show.json?screen_name={username}",
@@ -46,7 +52,7 @@ def fetch_user_metadata(username: str) -> dict:
     return d
 
 
-def fetch_user_metadata_from_cache_or_web(username: str) -> dict:
+def fetch_user_metadata_from_cache_or_web(username: str) -> dict[str, str]:
     cache_file = f"cache/{username}.json"
     if check_cache_file_available_and_recent(fname=cache_file):
         with open(file=cache_file, encoding="utf-8") as fh:
@@ -125,7 +131,7 @@ d_config = {"bearer-token": config.get("API", "bearer-token")}
 # d_config['api-secret-key'] = config.get('API', 'api-secret-key')
 
 # read input data
-l_landkreise = []
+l_landkreise: list[dict[str, str]] = []
 with open("data/DE-Landkreise-in.csv", encoding="utf-8") as fh:
     csv_reader = csv.DictReader(fh, dialect="excel", delimiter=",")
     for row in csv_reader:
