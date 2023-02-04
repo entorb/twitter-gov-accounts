@@ -2,6 +2,8 @@
 
 Hier ist der [aktuelle Stand](https://entorb.github.io/twitter-gov-accounts/index.html) zu finden
 
+Ab dem 09.02.2023 ist die Verwendung der API nicht mehr kostenlos, siehe https://twitter.com/TwitterDev/status/1621026986784337922 . Daher werde ich die Daten nicht mehr aktualisieren.
+
 Done
 * Ref Liste der Landkreise erstellen
 * Twitter Developer Account beantragen
